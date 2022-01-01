@@ -1,2 +1,5 @@
 # inky-kanji
-learn Japanese kanji with a inky wHat ePaper
+learn Japanese kanji with inky  ePaper displays from Pimaroni
+
+https://shop.pimoroni.com/products/inky-what?variant=13590497624147
+
