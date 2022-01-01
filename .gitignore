@@ -1,3 +1,5 @@
+# ignore true type fonts
+*.ttf
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

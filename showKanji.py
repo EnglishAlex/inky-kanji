@@ -88,6 +88,6 @@ draw.text(locDoW ,  msgDoW  , thisDisplay.BLACK, fontDoW)
 
 
 #display(img)
-img = img.rotate(180, expand=True)
+#img = img.rotate(180, expand=True)
 thisDisplay.set_image(img)
 thisDisplay.show()

@@ -1,5 +1,5 @@
 #!/bin/bash
 # shell script to launch ePaper display
 # (c) Alex Oulton Dec 2021
-cd /home/pi/code/inkyDisplay/
+cd /home/pi/inky-kanji/
 /usr/bin/python3 ./showKanji.py > showKanji.log 2>&1
