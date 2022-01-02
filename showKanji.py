@@ -39,7 +39,7 @@ msgKana  = theKanji['kanaRead']
 msgEigo  = theKanji['engRead']
 
 
-msgTime  = "last update: " + datetime.strftime(datetime.now(),'%I:%M %p')
+msgTime  = "Updated: " + datetime.strftime(datetime.now(),'%I:%M %p')
 
 # find the kanji for this day of the week
 kanjiWeek = "月火水木金土日"

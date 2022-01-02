@@ -1,0 +1,8 @@
+#
+# Crontab for the Pi Zero and inky wHat ePaper display
+# (c) Alex Oulton January 2022
+#
+# m h  dom mon dow   command
+*/2 6-23 * * * /home/pi/inky-kanji/launch-showKanji > /home/pi/inky-kanji/launch-log 2>&1
+5 4 * * * /sbin/shutdown --reboot now
+15 4 * * * /home/pi/inky-tools/clean.py --number 10 > /home/pi/$$clean.log 2>&1
