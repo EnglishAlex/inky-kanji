@@ -10,3 +10,7 @@ to do:
 - run the job on a crontab
 - reboot and refresh display nightly
 - add pretty pictures
+
+
+![inky-demo](https://user-images.githubusercontent.com/15699052/147948807-3054c1f2-f626-4c6b-ad0b-381bba0ebea3.jpeg)
+
