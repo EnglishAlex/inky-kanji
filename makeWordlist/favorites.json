@@ -1,0 +1,2252 @@
+[
+    {
+        "kanji": "渓谷",
+        "kanaRead": "けいこく",
+        "engRead": "valley (with a river running through it)"
+    },
+    {
+        "kanji": "計画",
+        "kanaRead": "けいかく",
+        "engRead": "plan"
+    },
+    {
+        "kanji": "画数",
+        "kanaRead": "かくすう",
+        "engRead": "stroke count"
+    },
+    {
+        "kanji": "活動",
+        "kanaRead": "かつどう",
+        "engRead": "activity (of a person, organization, animal, volcano, etc.)"
+    },
+    {
+        "kanji": "授業",
+        "kanaRead": "じゅぎょう",
+        "engRead": "lesson"
+    },
+    {
+        "kanji": "主役",
+        "kanaRead": "しゅやく",
+        "engRead": "leading part"
+    },
+    {
+        "kanji": "秘訣",
+        "kanaRead": "ひけつ",
+        "engRead": "secret (method, trick, etc.)"
+    },
+    {
+        "kanji": "感動",
+        "kanaRead": "かんどう",
+        "engRead": "being deeply moved emotionally"
+    },
+    {
+        "kanji": "感覚",
+        "kanaRead": "かんかく",
+        "engRead": "sense"
+    },
+    {
+        "kanji": "感触",
+        "kanaRead": "かんしょく",
+        "engRead": "feel (i.e. tactile sensation)"
+    },
+    {
+        "kanji": "柑橘類",
+        "kanaRead": "かんきつるい",
+        "engRead": "citrus fruits"
+    },
+    {
+        "kanji": "紺",
+        "kanaRead": "こん",
+        "engRead": "navy blue"
+    },
+    {
+        "kanji": "役柄",
+        "kanaRead": "やくがら",
+        "engRead": "role"
+    },
+    {
+        "kanji": "合流",
+        "kanaRead": "ごうりゅう",
+        "engRead": "confluence (of rivers)"
+    },
+    {
+        "kanji": "左折",
+        "kanaRead": "させつ",
+        "engRead": "turning to the left"
+    },
+    {
+        "kanji": "役割",
+        "kanaRead": "やくわり",
+        "engRead": "part"
+    },
+    {
+        "kanji": "銘柄",
+        "kanaRead": "めいがら",
+        "engRead": "brand"
+    },
+    {
+        "kanji": "分譲",
+        "kanaRead": "ぶんじょう",
+        "engRead": "selling (real-estate) lots"
+    },
+    {
+        "kanji": "証拠",
+        "kanaRead": "しょうこ",
+        "engRead": "evidence"
+    },
+    {
+        "kanji": "加減乗除",
+        "kanaRead": "かげんじょうじょ",
+        "engRead": "the four arithmetical operations (addition, subtraction, multiplication, division)"
+    },
+    {
+        "kanji": "実際",
+        "kanaRead": "じっさい",
+        "engRead": "practicality"
+    },
+    {
+        "kanji": "政治家",
+        "kanaRead": "せいじか",
+        "engRead": "politician"
+    },
+    {
+        "kanji": "目指す",
+        "kanaRead": "めざす",
+        "engRead": "to aim at"
+    },
+    {
+        "kanji": "後期",
+        "kanaRead": "こうき",
+        "engRead": "latter period"
+    },
+    {
+        "kanji": "遅効",
+        "kanaRead": "ちこう",
+        "engRead": "delayed effect"
+    },
+    {
+        "kanji": "延着",
+        "kanaRead": "えんちゃく",
+        "engRead": "delayed arrival"
+    },
+    {
+        "kanji": "遅刻",
+        "kanaRead": "ちこく",
+        "engRead": "lateness"
+    },
+    {
+        "kanji": "参加意識",
+        "kanaRead": "さんかいしき",
+        "engRead": "sense of participation"
+    },
+    {
+        "kanji": "参加資格",
+        "kanaRead": "さんかしかく",
+        "engRead": "entry qualifications"
+    },
+    {
+        "kanji": "老化",
+        "kanaRead": "ろうか",
+        "engRead": "ageing"
+    },
+    {
+        "kanji": "紫外線",
+        "kanaRead": "しがいせん",
+        "engRead": "ultraviolet rays"
+    },
+    {
+        "kanji": "角膜",
+        "kanaRead": "かくまく",
+        "engRead": "cornea"
+    },
+    {
+        "kanji": "反射",
+        "kanaRead": "はんしゃ",
+        "engRead": "reflection"
+    },
+    {
+        "kanji": "数値",
+        "kanaRead": "すうち",
+        "engRead": "numerical value"
+    },
+    {
+        "kanji": "落とし穴",
+        "kanaRead": "おとしあな",
+        "engRead": "pitfall"
+    },
+    {
+        "kanji": "携帯端末",
+        "kanaRead": "けいたいたんまつ",
+        "engRead": "portable terminal"
+    },
+    {
+        "kanji": "預金",
+        "kanaRead": "よきん",
+        "engRead": "deposit"
+    },
+    {
+        "kanji": "預かる",
+        "kanaRead": "あずかる",
+        "engRead": "to look after"
+    },
+    {
+        "kanji": "預かり所",
+        "kanaRead": "あずかりじょ",
+        "engRead": "cloakroom"
+    },
+    {
+        "kanji": "預かり",
+        "kanaRead": "あずかり",
+        "engRead": "under custody"
+    },
+    {
+        "kanji": "実施",
+        "kanaRead": "じっし",
+        "engRead": "enforcement"
+    },
+    {
+        "kanji": "労働",
+        "kanaRead": "ろうどう",
+        "engRead": "manual labor"
+    },
+    {
+        "kanji": "労働者",
+        "kanaRead": "ろうどうしゃ",
+        "engRead": "employee"
+    },
+    {
+        "kanji": "自己紹介",
+        "kanaRead": "じこしょうかい",
+        "engRead": "self-introduction"
+    },
+    {
+        "kanji": "初心者マーク",
+        "kanaRead": "しょしんしゃマーク",
+        "engRead": "sticker for new car drivers (green and yellow)"
+    },
+    {
+        "kanji": "各位",
+        "kanaRead": "かくい",
+        "engRead": "everyone"
+    },
+    {
+        "kanji": "紳士",
+        "kanaRead": "しんし",
+        "engRead": "gentleman"
+    },
+    {
+        "kanji": "機能",
+        "kanaRead": "きのう",
+        "engRead": "function"
+    },
+    {
+        "kanji": "機能強化",
+        "kanaRead": "きのうきょうか",
+        "engRead": "functional enhancement"
+    },
+    {
+        "kanji": "敵",
+        "kanaRead": "てき",
+        "engRead": "opponent"
+    },
+    {
+        "kanji": "晴雨計",
+        "kanaRead": "せいうけい",
+        "engRead": "barometer"
+    },
+    {
+        "kanji": "秘策",
+        "kanaRead": "ひさく",
+        "engRead": "secret plan"
+    },
+    {
+        "kanji": "定義",
+        "kanaRead": "ていぎ",
+        "engRead": "definition"
+    },
+    {
+        "kanji": "月額",
+        "kanaRead": "げつがく",
+        "engRead": "monthly amount (sum)"
+    },
+    {
+        "kanji": "浮かぶ",
+        "kanaRead": "うかぶ",
+        "engRead": "to float"
+    },
+    {
+        "kanji": "秘密保持契約",
+        "kanaRead": "ひみつほじけいやく",
+        "engRead": "non-disclosure agreement"
+    },
+    {
+        "kanji": "入道雲",
+        "kanaRead": "にゅうどうぐも",
+        "engRead": "cumulonimbus"
+    },
+    {
+        "kanji": "酔い止め",
+        "kanaRead": "よいどめ",
+        "engRead": "anti-travel sickness (medicine)"
+    },
+    {
+        "kanji": "展",
+        "kanaRead": "てん",
+        "engRead": "exhibition"
+    },
+    {
+        "kanji": "科学",
+        "kanaRead": "かがく",
+        "engRead": "science"
+    },
+    {
+        "kanji": "記憶喪失",
+        "kanaRead": "きおくそうしつ",
+        "engRead": "loss of memory"
+    },
+    {
+        "kanji": "貸し切り",
+        "kanaRead": "かしきり",
+        "engRead": "reserving (for exclusive use)"
+    },
+    {
+        "kanji": "依然",
+        "kanaRead": "いぜん",
+        "engRead": "still"
+    },
+    {
+        "kanji": "贈り物",
+        "kanaRead": "おくりもの",
+        "engRead": "present"
+    },
+    {
+        "kanji": "運命",
+        "kanaRead": "うんめい",
+        "engRead": "fate"
+    },
+    {
+        "kanji": "素っぴん",
+        "kanaRead": "すっぴん",
+        "engRead": "face with no make-up"
+    },
+    {
+        "kanji": "惜しくも",
+        "kanaRead": "おしくも",
+        "engRead": "to one's regret"
+    },
+    {
+        "kanji": "受賞者",
+        "kanaRead": "じゅしょうしゃ",
+        "engRead": "prize-winner"
+    },
+    {
+        "kanji": "好機",
+        "kanaRead": "こうき",
+        "engRead": "good opportunity"
+    },
+    {
+        "kanji": "上映",
+        "kanaRead": "じょうえい",
+        "engRead": "screening (a movie)"
+    },
+    {
+        "kanji": "金属",
+        "kanaRead": "きんぞく",
+        "engRead": "metal"
+    },
+    {
+        "kanji": "建造物",
+        "kanaRead": "けんぞうぶつ",
+        "engRead": "structure"
+    },
+    {
+        "kanji": "正方形",
+        "kanaRead": "せいほうけい",
+        "engRead": "square"
+    },
+    {
+        "kanji": "鉄骨",
+        "kanaRead": "てっこつ",
+        "engRead": "steel frame"
+    },
+    {
+        "kanji": "迫真",
+        "kanaRead": "はくしん",
+        "engRead": "realistic"
+    },
+    {
+        "kanji": "神経質",
+        "kanaRead": "しんけいしつ",
+        "engRead": "nervous"
+    },
+    {
+        "kanji": "様子",
+        "kanaRead": "ようす",
+        "engRead": "state"
+    },
+    {
+        "kanji": "確定日付",
+        "kanaRead": "かくていひづけ",
+        "engRead": "fixed date"
+    },
+    {
+        "kanji": "財産",
+        "kanaRead": "ざいさん",
+        "engRead": "property"
+    },
+    {
+        "kanji": "技術",
+        "kanaRead": "ぎじゅつ",
+        "engRead": "technology"
+    },
+    {
+        "kanji": "推奨",
+        "kanaRead": "すいしょう",
+        "engRead": "recommendation"
+    },
+    {
+        "kanji": "順調",
+        "kanaRead": "じゅんちょう",
+        "engRead": "favourable"
+    },
+    {
+        "kanji": "一方通行",
+        "kanaRead": "いっぽうつうこう",
+        "engRead": "one-way traffic"
+    },
+    {
+        "kanji": "取っ手",
+        "kanaRead": "とって",
+        "engRead": "handle"
+    },
+    {
+        "kanji": "探検",
+        "kanaRead": "たんけん",
+        "engRead": "exploration"
+    },
+    {
+        "kanji": "秘境",
+        "kanaRead": "ひきょう",
+        "engRead": "unexplored region"
+    },
+    {
+        "kanji": "仕草",
+        "kanaRead": "しぐさ",
+        "engRead": "gesture"
+    },
+    {
+        "kanji": "純利益",
+        "kanaRead": "じゅんりえき",
+        "engRead": "net income"
+    },
+    {
+        "kanji": "仮処分",
+        "kanaRead": "かりしょぶん",
+        "engRead": "provisional disposition"
+    },
+    {
+        "kanji": "返済",
+        "kanaRead": "へんさい",
+        "engRead": "repayment"
+    },
+    {
+        "kanji": "未定",
+        "kanaRead": "みてい",
+        "engRead": "not yet fixed"
+    },
+    {
+        "kanji": "景色",
+        "kanaRead": "けしき",
+        "engRead": "scenery"
+    },
+    {
+        "kanji": "補給",
+        "kanaRead": "ほきゅう",
+        "engRead": "supply"
+    },
+    {
+        "kanji": "対象外",
+        "kanaRead": "たいしょうがい",
+        "engRead": "not covered (by)"
+    },
+    {
+        "kanji": "禁煙",
+        "kanaRead": "きんえん",
+        "engRead": "abstaining from smoking"
+    },
+    {
+        "kanji": "厳禁",
+        "kanaRead": "げんきん",
+        "engRead": "strict prohibition"
+    },
+    {
+        "kanji": "成長",
+        "kanaRead": "せいちょう",
+        "engRead": "growth"
+    },
+    {
+        "kanji": "豊富",
+        "kanaRead": "ほうふ",
+        "engRead": "abundant"
+    },
+    {
+        "kanji": "難民",
+        "kanaRead": "なんみん",
+        "engRead": "refugee"
+    },
+    {
+        "kanji": "豊か",
+        "kanaRead": "ゆたか",
+        "engRead": "abundant"
+    },
+    {
+        "kanji": "標高",
+        "kanaRead": "ひょうこう",
+        "engRead": "elevation"
+    },
+    {
+        "kanji": "墜落事故",
+        "kanaRead": "ついらくじこ",
+        "engRead": "plane crash"
+    },
+    {
+        "kanji": "画報",
+        "kanaRead": "がほう",
+        "engRead": "illustrated news magazine"
+    },
+    {
+        "kanji": "難解",
+        "kanaRead": "なんかい",
+        "engRead": "difficult to understand"
+    },
+    {
+        "kanji": "不倫",
+        "kanaRead": "ふりん",
+        "engRead": "adultery"
+    },
+    {
+        "kanji": "相棒",
+        "kanaRead": "あいぼう",
+        "engRead": "partner"
+    },
+    {
+        "kanji": "肝試し",
+        "kanaRead": "きもだめし",
+        "engRead": "test of courage (e.g. at a frightening place such as a graveyard)"
+    },
+    {
+        "kanji": "延期",
+        "kanaRead": "えんき",
+        "engRead": "postponement"
+    },
+    {
+        "kanji": "硬貨",
+        "kanaRead": "こうか",
+        "engRead": "coin"
+    },
+    {
+        "kanji": "損益",
+        "kanaRead": "そんえき",
+        "engRead": "profit and loss"
+    },
+    {
+        "kanji": "厳選",
+        "kanaRead": "げんせん",
+        "engRead": "careful selection"
+    },
+    {
+        "kanji": "外貨",
+        "kanaRead": "がいか",
+        "engRead": "foreign currency"
+    },
+    {
+        "kanji": "浮力",
+        "kanaRead": "ふりょく",
+        "engRead": "buoyancy"
+    },
+    {
+        "kanji": "本格",
+        "kanaRead": "ほんかく",
+        "engRead": "original method or procedure"
+    },
+    {
+        "kanji": "極める",
+        "kanaRead": "きわめる",
+        "engRead": "to carry to extremes"
+    },
+    {
+        "kanji": "実績",
+        "kanaRead": "じっせき",
+        "engRead": "achievements"
+    },
+    {
+        "kanji": "付近",
+        "kanaRead": "ふきん",
+        "engRead": "neighbourhood"
+    },
+    {
+        "kanji": "勇敢",
+        "kanaRead": "ゆうかん",
+        "engRead": "brave"
+    },
+    {
+        "kanji": "信頼",
+        "kanaRead": "しんらい",
+        "engRead": "reliance"
+    },
+    {
+        "kanji": "軽減",
+        "kanaRead": "けいげん",
+        "engRead": "abatement"
+    },
+    {
+        "kanji": "回廊",
+        "kanaRead": "かいろう",
+        "engRead": "corridor"
+    },
+    {
+        "kanji": "綺麗な薔薇には棘がある",
+        "kanaRead": "きれいなばらにはとげがある",
+        "engRead": "there is no rose without a thorn"
+    },
+    {
+        "kanji": "摘む",
+        "kanaRead": "つまむ",
+        "engRead": "to pinch"
+    },
+    {
+        "kanji": "主導",
+        "kanaRead": "しゅどう",
+        "engRead": "leadership"
+    },
+    {
+        "kanji": "主導権を握る",
+        "kanaRead": "しゅどうけんをにぎる",
+        "engRead": "to seize the initiative"
+    },
+    {
+        "kanji": "資源",
+        "kanaRead": "しげん",
+        "engRead": "resources"
+    },
+    {
+        "kanji": "指導",
+        "kanaRead": "しどう",
+        "engRead": "guidance"
+    },
+    {
+        "kanji": "応援",
+        "kanaRead": "おうえん",
+        "engRead": "aid"
+    },
+    {
+        "kanji": "導入済み",
+        "kanaRead": "どうにゅうずみ",
+        "engRead": "already introduced"
+    },
+    {
+        "kanji": "中古車",
+        "kanaRead": "ちゅうこしゃ",
+        "engRead": "used car"
+    },
+    {
+        "kanji": "画質",
+        "kanaRead": "がしつ",
+        "engRead": "image quality (film, video, etc.)"
+    },
+    {
+        "kanji": "大金星",
+        "kanaRead": "だいきんぼし",
+        "engRead": "surprise victory"
+    },
+    {
+        "kanji": "裏返し",
+        "kanaRead": "うらがえし",
+        "engRead": "inside out"
+    },
+    {
+        "kanji": "永住",
+        "kanaRead": "えいじゅう",
+        "engRead": "permanent residence"
+    },
+    {
+        "kanji": "補修",
+        "kanaRead": "ほしゅう",
+        "engRead": "repair"
+    },
+    {
+        "kanji": "車両",
+        "kanaRead": "しゃりょう",
+        "engRead": "rolling stock"
+    },
+    {
+        "kanji": "凄い",
+        "kanaRead": "すごい",
+        "engRead": "terrible"
+    },
+    {
+        "kanji": "色紙",
+        "kanaRead": "しきし",
+        "engRead": "square fancy cardboard, used for autographs, poetry, etc."
+    },
+    {
+        "kanji": "難色",
+        "kanaRead": "なんしょく",
+        "engRead": "disapproval"
+    },
+    {
+        "kanji": "勇気づける",
+        "kanaRead": "ゆうきづける",
+        "engRead": "to encourage"
+    },
+    {
+        "kanji": "新刊",
+        "kanaRead": "しんかん",
+        "engRead": "new book"
+    },
+    {
+        "kanji": "各種",
+        "kanaRead": "かくしゅ",
+        "engRead": "every kind"
+    },
+    {
+        "kanji": "移住者",
+        "kanaRead": "いじゅうしゃ",
+        "engRead": "emigrant"
+    },
+    {
+        "kanji": "乱れる",
+        "kanaRead": "みだれる",
+        "engRead": "to be disordered"
+    },
+    {
+        "kanji": "共同開発",
+        "kanaRead": "きょうどうかいはつ",
+        "engRead": "joint development"
+    },
+    {
+        "kanji": "非の打ち所がない",
+        "kanaRead": "ひのうちどころがない",
+        "engRead": "impeccable"
+    },
+    {
+        "kanji": "突破",
+        "kanaRead": "とっぱ",
+        "engRead": "breaking through"
+    },
+    {
+        "kanji": "仏塔",
+        "kanaRead": "ぶっとう",
+        "engRead": "stupa"
+    },
+    {
+        "kanji": "接合",
+        "kanaRead": "せつごう",
+        "engRead": "union"
+    },
+    {
+        "kanji": "成績表",
+        "kanaRead": "せいせきひょう",
+        "engRead": "report card"
+    },
+    {
+        "kanji": "賛成",
+        "kanaRead": "さんせい",
+        "engRead": "approval"
+    },
+    {
+        "kanji": "賛否",
+        "kanaRead": "さんぴ",
+        "engRead": "yes and no"
+    },
+    {
+        "kanji": "百貨店",
+        "kanaRead": "ひゃっかてん",
+        "engRead": "(department) store"
+    },
+    {
+        "kanji": "就航",
+        "kanaRead": "しゅうこう",
+        "engRead": "entering service (on a route; of a plane or ship)"
+    },
+    {
+        "kanji": "就職",
+        "kanaRead": "しゅうしょく",
+        "engRead": "finding employment"
+    },
+    {
+        "kanji": "闘士",
+        "kanaRead": "とうし",
+        "engRead": "fighter (for)"
+    },
+    {
+        "kanji": "別居",
+        "kanaRead": "べっきょ",
+        "engRead": "separation"
+    },
+    {
+        "kanji": "懸念",
+        "kanaRead": "けねん",
+        "engRead": "worry"
+    },
+    {
+        "kanji": "指針",
+        "kanaRead": "ししん",
+        "engRead": "needle (compass, gauge, etc.)"
+    },
+    {
+        "kanji": "肯定",
+        "kanaRead": "こうてい",
+        "engRead": "affirmation"
+    },
+    {
+        "kanji": "不同意",
+        "kanaRead": "ふどうい",
+        "engRead": "disagreement"
+    },
+    {
+        "kanji": "否定",
+        "kanaRead": "ひてい",
+        "engRead": "denial"
+    },
+    {
+        "kanji": "録画",
+        "kanaRead": "ろくが",
+        "engRead": "(video) recording"
+    },
+    {
+        "kanji": "縮尺",
+        "kanaRead": "しゅくしゃく",
+        "engRead": "reduced scale"
+    },
+    {
+        "kanji": "印",
+        "kanaRead": "しるし",
+        "engRead": "mark"
+    },
+    {
+        "kanji": "正直",
+        "kanaRead": "しょうじき",
+        "engRead": "honest"
+    },
+    {
+        "kanji": "常識",
+        "kanaRead": "じょうしき",
+        "engRead": "common sense"
+    },
+    {
+        "kanji": "高額",
+        "kanaRead": "こうがく",
+        "engRead": "large sum (money)"
+    },
+    {
+        "kanji": "還元",
+        "kanaRead": "かんげん",
+        "engRead": "restoration"
+    },
+    {
+        "kanji": "預け",
+        "kanaRead": "あずけ",
+        "engRead": "custody"
+    },
+    {
+        "kanji": "水耕",
+        "kanaRead": "すいこう",
+        "engRead": "hydroponics"
+    },
+    {
+        "kanji": "水耕栽培",
+        "kanaRead": "すいこうさいばい",
+        "engRead": "hydroponics"
+    },
+    {
+        "kanji": "栽培",
+        "kanaRead": "さいばい",
+        "engRead": "cultivation"
+    },
+    {
+        "kanji": "年寄り",
+        "kanaRead": "としより",
+        "engRead": "old person"
+    },
+    {
+        "kanji": "過去",
+        "kanaRead": "かこ",
+        "engRead": "the past"
+    },
+    {
+        "kanji": "出題例",
+        "kanaRead": "しゅつだいれい",
+        "engRead": "sample exam question"
+    },
+    {
+        "kanji": "発揮",
+        "kanaRead": "はっき",
+        "engRead": "show (of power, ability, etc.)"
+    },
+    {
+        "kanji": "事項",
+        "kanaRead": "じこう",
+        "engRead": "matter"
+    },
+    {
+        "kanji": "事項索引",
+        "kanaRead": "じこうさくいん",
+        "engRead": "subject index"
+    },
+    {
+        "kanji": "記述",
+        "kanaRead": "きじゅつ",
+        "engRead": "description"
+    },
+    {
+        "kanji": "解説",
+        "kanaRead": "かいせつ",
+        "engRead": "explanation"
+    },
+    {
+        "kanji": "方法",
+        "kanaRead": "ほうほう",
+        "engRead": "method"
+    },
+    {
+        "kanji": "違法",
+        "kanaRead": "いほう",
+        "engRead": "illegal"
+    },
+    {
+        "kanji": "除幕式",
+        "kanaRead": "じょまくしき",
+        "engRead": "unveiling ceremony"
+    },
+    {
+        "kanji": "選抜試験",
+        "kanaRead": "せんばつしけん",
+        "engRead": "selection test"
+    },
+    {
+        "kanji": "塾",
+        "kanaRead": "じゅく",
+        "engRead": "cram school"
+    },
+    {
+        "kanji": "増加率",
+        "kanaRead": "ぞうかりつ",
+        "engRead": "rate of increase"
+    },
+    {
+        "kanji": "効果音",
+        "kanaRead": "こうかおん",
+        "engRead": "sound effect"
+    },
+    {
+        "kanji": "タレ目",
+        "kanaRead": "タレめ",
+        "engRead": "drooping eyes"
+    },
+    {
+        "kanji": "振り返る",
+        "kanaRead": "ふりかえる",
+        "engRead": "to turn one's head"
+    },
+    {
+        "kanji": "学ぶ",
+        "kanaRead": "まなぶ",
+        "engRead": "to study (in depth)"
+    },
+    {
+        "kanji": "給料",
+        "kanaRead": "きゅうりょう",
+        "engRead": "salary"
+    },
+    {
+        "kanji": "原料",
+        "kanaRead": "げんりょう",
+        "engRead": "raw materials"
+    },
+    {
+        "kanji": "生鮮食料品",
+        "kanaRead": "せいせんしょくりょうひん",
+        "engRead": "perishable food"
+    },
+    {
+        "kanji": "歯科",
+        "kanaRead": "しか",
+        "engRead": "dentistry"
+    },
+    {
+        "kanji": "詐欺",
+        "kanaRead": "さぎ",
+        "engRead": "fraud"
+    },
+    {
+        "kanji": "日々の糧",
+        "kanaRead": "ひびのかて",
+        "engRead": "one's daily bread"
+    },
+    {
+        "kanji": "架空請求",
+        "kanaRead": "かくうせいきゅう",
+        "engRead": "false invoice"
+    },
+    {
+        "kanji": "知らん振り",
+        "kanaRead": "しらんぷり",
+        "engRead": "pretending not to know"
+    },
+    {
+        "kanji": "反省",
+        "kanaRead": "はんせい",
+        "engRead": "reflection"
+    },
+    {
+        "kanji": "激突",
+        "kanaRead": "げきとつ",
+        "engRead": "crash into"
+    },
+    {
+        "kanji": "宴会",
+        "kanaRead": "えんかい",
+        "engRead": "party"
+    },
+    {
+        "kanji": "台無しになる",
+        "kanaRead": "だいなしになる",
+        "engRead": "to come to nothing"
+    },
+    {
+        "kanji": "責任感",
+        "kanaRead": "せきにんかん",
+        "engRead": "sense of responsibility"
+    },
+    {
+        "kanji": "杉玉",
+        "kanaRead": "すぎだま",
+        "engRead": "sugidama"
+    },
+    {
+        "kanji": "お代わり",
+        "kanaRead": "おかわり",
+        "engRead": "another helping"
+    },
+    {
+        "kanji": "音声言語",
+        "kanaRead": "おんせいげんご",
+        "engRead": "spoken language"
+    },
+    {
+        "kanji": "鬼退治",
+        "kanaRead": "おにたいじ",
+        "engRead": "chasing out ogres"
+    },
+    {
+        "kanji": "お冷や",
+        "kanaRead": "おひや",
+        "engRead": "cold (drinking) water"
+    },
+    {
+        "kanji": "輸入",
+        "kanaRead": "ゆにゅう",
+        "engRead": "import"
+    },
+    {
+        "kanji": "空輸",
+        "kanaRead": "くうゆ",
+        "engRead": "air transport"
+    },
+    {
+        "kanji": "我慢",
+        "kanaRead": "がまん",
+        "engRead": "patience"
+    },
+    {
+        "kanji": "暈し",
+        "kanaRead": "ぼかし",
+        "engRead": "shading off"
+    },
+    {
+        "kanji": "機運",
+        "kanaRead": "きうん",
+        "engRead": "opportunity"
+    },
+    {
+        "kanji": "双眼鏡",
+        "kanaRead": "そうがんきょう",
+        "engRead": "binoculars"
+    },
+    {
+        "kanji": "整数",
+        "kanaRead": "せいすう",
+        "engRead": "integer"
+    },
+    {
+        "kanji": "取り計らう",
+        "kanaRead": "とりはからう",
+        "engRead": "to manage"
+    },
+    {
+        "kanji": "整う",
+        "kanaRead": "ととのう",
+        "engRead": "to be ready"
+    },
+    {
+        "kanji": "直通列車",
+        "kanaRead": "ちょくつうれっしゃ",
+        "engRead": "through train"
+    },
+    {
+        "kanji": "普段",
+        "kanaRead": "ふだん",
+        "engRead": "usual"
+    },
+    {
+        "kanji": "燃焼",
+        "kanaRead": "ねんしょう",
+        "engRead": "burning"
+    },
+    {
+        "kanji": "国境線",
+        "kanaRead": "こっきょうせん",
+        "engRead": "border"
+    },
+    {
+        "kanji": "活用",
+        "kanaRead": "かつよう",
+        "engRead": "practical use"
+    },
+    {
+        "kanji": "経済制裁",
+        "kanaRead": "けいざいせいさい",
+        "engRead": "economic sanctions"
+    },
+    {
+        "kanji": "制裁",
+        "kanaRead": "せいさい",
+        "engRead": "sanctions"
+    },
+    {
+        "kanji": "煙感知器",
+        "kanaRead": "けむりかんちき",
+        "engRead": "smoke detector"
+    },
+    {
+        "kanji": "警戒",
+        "kanaRead": "けいかい",
+        "engRead": "vigilance"
+    },
+    {
+        "kanji": "警告",
+        "kanaRead": "けいこく",
+        "engRead": "warning"
+    },
+    {
+        "kanji": "警報",
+        "kanaRead": "けいほう",
+        "engRead": "alarm"
+    },
+    {
+        "kanji": "部署",
+        "kanaRead": "ぶしょ",
+        "engRead": "one's post"
+    },
+    {
+        "kanji": "厄払い",
+        "kanaRead": "やくはらい",
+        "engRead": "exorcism"
+    },
+    {
+        "kanji": "気軽い",
+        "kanaRead": "きがるい",
+        "engRead": "cheerful"
+    },
+    {
+        "kanji": "軽い",
+        "kanaRead": "かるい",
+        "engRead": "light (i.e. not heavy)"
+    },
+    {
+        "kanji": "障害迂回",
+        "kanaRead": "しょうがいうかい",
+        "engRead": "fail-over"
+    },
+    {
+        "kanji": "礼儀",
+        "kanaRead": "れいぎ",
+        "engRead": "manners"
+    },
+    {
+        "kanji": "暮らし",
+        "kanaRead": "くらし",
+        "engRead": "life"
+    },
+    {
+        "kanji": "暮らす",
+        "kanaRead": "くらす",
+        "engRead": "to live"
+    },
+    {
+        "kanji": "入試",
+        "kanaRead": "にゅうし",
+        "engRead": "entrance examination"
+    },
+    {
+        "kanji": "内容",
+        "kanaRead": "ないよう",
+        "engRead": "contents"
+    },
+    {
+        "kanji": "偏差値",
+        "kanaRead": "へんさち",
+        "engRead": "deviation value (usu. scaled to mean of 50, standard deviation of 10, and often used for academic grades)"
+    },
+    {
+        "kanji": "頂点",
+        "kanaRead": "ちょうてん",
+        "engRead": "top"
+    },
+    {
+        "kanji": "構造",
+        "kanaRead": "こうぞう",
+        "engRead": "structure"
+    },
+    {
+        "kanji": "製造",
+        "kanaRead": "せいぞう",
+        "engRead": "manufacture"
+    },
+    {
+        "kanji": "醸造",
+        "kanaRead": "じょうぞう",
+        "engRead": "brewing"
+    },
+    {
+        "kanji": "話題",
+        "kanaRead": "わだい",
+        "engRead": "topic"
+    },
+    {
+        "kanji": "思いやり",
+        "kanaRead": "おもいやり",
+        "engRead": "consideration"
+    },
+    {
+        "kanji": "浮気",
+        "kanaRead": "うわき",
+        "engRead": "extramarital sex"
+    },
+    {
+        "kanji": "隙間",
+        "kanaRead": "すきま",
+        "engRead": "crevice"
+    },
+    {
+        "kanji": "時期",
+        "kanaRead": "じき",
+        "engRead": "time"
+    },
+    {
+        "kanji": "期間",
+        "kanaRead": "きかん",
+        "engRead": "period"
+    },
+    {
+        "kanji": "中等",
+        "kanaRead": "ちゅうとう",
+        "engRead": "second grade"
+    },
+    {
+        "kanji": "中等部",
+        "kanaRead": "ちゅうとうぶ",
+        "engRead": "middle school (esp. the middle school section of a school that also encompasses other grades)"
+    },
+    {
+        "kanji": "抜群",
+        "kanaRead": "ばつぐん",
+        "engRead": "outstanding"
+    },
+    {
+        "kanji": "許可証",
+        "kanaRead": "きょかしょう",
+        "engRead": "permit"
+    },
+    {
+        "kanji": "機械室",
+        "kanaRead": "きかいしつ",
+        "engRead": "machine room"
+    },
+    {
+        "kanji": "硬度",
+        "kanaRead": "こうど",
+        "engRead": "hardness"
+    },
+    {
+        "kanji": "一致",
+        "kanaRead": "いっち",
+        "engRead": "coincidence"
+    },
+    {
+        "kanji": "糞",
+        "kanaRead": "くそ",
+        "engRead": "bullshit"
+    },
+    {
+        "kanji": "特徴",
+        "kanaRead": "とくちょう",
+        "engRead": "feature"
+    },
+    {
+        "kanji": "捕食者",
+        "kanaRead": "ほしょくしゃ",
+        "engRead": "predator"
+    },
+    {
+        "kanji": "待ち伏せる",
+        "kanaRead": "まちぶせる",
+        "engRead": "to ambush"
+    },
+    {
+        "kanji": "模様",
+        "kanaRead": "もよう",
+        "engRead": "pattern"
+    },
+    {
+        "kanji": "挽きたて",
+        "kanaRead": "ひきたて",
+        "engRead": "freshly-ground (e.g. coffee, pepper)"
+    },
+    {
+        "kanji": "濡れ手で粟",
+        "kanaRead": "ぬれてであわ",
+        "engRead": "easy profit"
+    },
+    {
+        "kanji": "濡れ色",
+        "kanaRead": "ぬれいろ",
+        "engRead": "color of something wet"
+    },
+    {
+        "kanji": "用心棒",
+        "kanaRead": "ようじんぼう",
+        "engRead": "bodyguard"
+    },
+    {
+        "kanji": "瓶",
+        "kanaRead": "びん",
+        "engRead": "bottle"
+    },
+    {
+        "kanji": "建て替え",
+        "kanaRead": "たてかえ",
+        "engRead": "rebuilding"
+    },
+    {
+        "kanji": "緊急着陸",
+        "kanaRead": "きんきゅうちゃくりく",
+        "engRead": "emergency landing"
+    },
+    {
+        "kanji": "緊急発進",
+        "kanaRead": "きんきゅうはっしん",
+        "engRead": "scrambling"
+    },
+    {
+        "kanji": "緊急停止",
+        "kanaRead": "きんきゅうていし",
+        "engRead": "emergency stop"
+    },
+    {
+        "kanji": "逃亡者",
+        "kanaRead": "とうぼうしゃ",
+        "engRead": "runaway"
+    },
+    {
+        "kanji": "見逃し",
+        "kanaRead": "みのがし",
+        "engRead": "overlooking"
+    },
+    {
+        "kanji": "見逃す",
+        "kanaRead": "みのがす",
+        "engRead": "to miss"
+    },
+    {
+        "kanji": "片手",
+        "kanaRead": "かたて",
+        "engRead": "one hand"
+    },
+    {
+        "kanji": "個包装",
+        "kanaRead": "こほうそう",
+        "engRead": "individual packaging"
+    },
+    {
+        "kanji": "旬",
+        "kanaRead": "じゅん",
+        "engRead": "ten-day period (in a month)"
+    },
+    {
+        "kanji": "美容師",
+        "kanaRead": "びようし",
+        "engRead": "beautician"
+    },
+    {
+        "kanji": "技師",
+        "kanaRead": "ぎし",
+        "engRead": "engineer"
+    },
+    {
+        "kanji": "片足",
+        "kanaRead": "かたあし",
+        "engRead": "one leg"
+    },
+    {
+        "kanji": "行き止まり",
+        "kanaRead": "いきどまり",
+        "engRead": "dead end"
+    },
+    {
+        "kanji": "叶える",
+        "kanaRead": "かなえる",
+        "engRead": "to grant (request, wish)"
+    },
+    {
+        "kanji": "格別",
+        "kanaRead": "かくべつ",
+        "engRead": "particular"
+    },
+    {
+        "kanji": "発芽",
+        "kanaRead": "はつが",
+        "engRead": "germination"
+    },
+    {
+        "kanji": "使い倒す",
+        "kanaRead": "つかいたおす",
+        "engRead": "to use within an inch of its life"
+    },
+    {
+        "kanji": "建築",
+        "kanaRead": "けんちく",
+        "engRead": "construction"
+    },
+    {
+        "kanji": "輝く",
+        "kanaRead": "かがやく",
+        "engRead": "to shine"
+    },
+    {
+        "kanji": "欠点",
+        "kanaRead": "けってん",
+        "engRead": "fault"
+    },
+    {
+        "kanji": "自己批判",
+        "kanaRead": "じこひはん",
+        "engRead": "self-criticism"
+    },
+    {
+        "kanji": "扱う",
+        "kanaRead": "あつかう",
+        "engRead": "to deal with (a person)"
+    },
+    {
+        "kanji": "速達",
+        "kanaRead": "そくたつ",
+        "engRead": "express"
+    },
+    {
+        "kanji": "男爵",
+        "kanaRead": "だんしゃく",
+        "engRead": "baron"
+    },
+    {
+        "kanji": "等級",
+        "kanaRead": "とうきゅう",
+        "engRead": "grade"
+    },
+    {
+        "kanji": "丸投げ",
+        "kanaRead": "まるなげ",
+        "engRead": "wholesale delegation"
+    },
+    {
+        "kanji": "途上国",
+        "kanaRead": "とじょうこく",
+        "engRead": "developing country"
+    },
+    {
+        "kanji": "生活水準",
+        "kanaRead": "せいかつすいじゅん",
+        "engRead": "standard of living"
+    },
+    {
+        "kanji": "鐘",
+        "kanaRead": "かね",
+        "engRead": "bell (often a large hanging bell)"
+    },
+    {
+        "kanji": "経験",
+        "kanaRead": "けいけん",
+        "engRead": "experience"
+    },
+    {
+        "kanji": "経験者",
+        "kanaRead": "けいけんしゃ",
+        "engRead": "experienced person"
+    },
+    {
+        "kanji": "私立大学",
+        "kanaRead": "しりつだいがく",
+        "engRead": "private university"
+    },
+    {
+        "kanji": "私立",
+        "kanaRead": "しりつ",
+        "engRead": "private (establishment)"
+    },
+    {
+        "kanji": "国立",
+        "kanaRead": "こくりつ",
+        "engRead": "national"
+    },
+    {
+        "kanji": "八つ当たり",
+        "kanaRead": "やつあたり",
+        "engRead": "venting one's anger (on someone or something)"
+    },
+    {
+        "kanji": "謝り",
+        "kanaRead": "あやまり",
+        "engRead": "excuse"
+    },
+    {
+        "kanji": "波紋が広がる",
+        "kanaRead": "はもんがひろがる",
+        "engRead": "to have repercussions"
+    },
+    {
+        "kanji": "激論",
+        "kanaRead": "げきろん",
+        "engRead": "heated argument"
+    },
+    {
+        "kanji": "学習",
+        "kanaRead": "がくしゅう",
+        "engRead": "study"
+    },
+    {
+        "kanji": "焦点深度",
+        "kanaRead": "しょうてんしんど",
+        "engRead": "depth of focus"
+    },
+    {
+        "kanji": "成功",
+        "kanaRead": "せいこう",
+        "engRead": "success"
+    },
+    {
+        "kanji": "生地",
+        "kanaRead": "きじ",
+        "engRead": "cloth"
+    },
+    {
+        "kanji": "経営",
+        "kanaRead": "けいえい",
+        "engRead": "management"
+    },
+    {
+        "kanji": "冊",
+        "kanaRead": "さつ",
+        "engRead": "counter for books"
+    },
+    {
+        "kanji": "最前線",
+        "kanaRead": "さいぜんせん",
+        "engRead": "front line"
+    },
+    {
+        "kanji": "有権者",
+        "kanaRead": "ゆうけんしゃ",
+        "engRead": "(eligible) voter"
+    },
+    {
+        "kanji": "寄付",
+        "kanaRead": "きふ",
+        "engRead": "contribution"
+    },
+    {
+        "kanji": "消極的",
+        "kanaRead": "しょうきょくてき",
+        "engRead": "negative"
+    },
+    {
+        "kanji": "真価",
+        "kanaRead": "しんか",
+        "engRead": "true value"
+    },
+    {
+        "kanji": "視界",
+        "kanaRead": "しかい",
+        "engRead": "field of vision"
+    },
+    {
+        "kanji": "欲張り法",
+        "kanaRead": "よくばりほう",
+        "engRead": "greedy algorithm"
+    },
+    {
+        "kanji": "改修",
+        "kanaRead": "かいしゅう",
+        "engRead": "repair"
+    },
+    {
+        "kanji": "公害",
+        "kanaRead": "こうがい",
+        "engRead": "pollution"
+    },
+    {
+        "kanji": "投資",
+        "kanaRead": "とうし",
+        "engRead": "investment"
+    },
+    {
+        "kanji": "税金",
+        "kanaRead": "ぜいきん",
+        "engRead": "tax"
+    },
+    {
+        "kanji": "返金",
+        "kanaRead": "へんきん",
+        "engRead": "repayment"
+    },
+    {
+        "kanji": "えんがちょ切った",
+        "kanaRead": "えんがちょきった",
+        "engRead": "go away, germs!"
+    },
+    {
+        "kanji": "朱雀",
+        "kanaRead": "すざく",
+        "engRead": "Vermilion Bird (god said to rule over the southern heavens)"
+    },
+    {
+        "kanji": "青龍",
+        "kanaRead": "せいりょう",
+        "engRead": "blue dragon (an auspicious creature in Chinese mythology)"
+    },
+    {
+        "kanji": "二十八宿",
+        "kanaRead": "にじゅうはっしゅく",
+        "engRead": "twenty-eight mansions of Chinese astronomy (constellations dividing the ecliptic into 28 positions)"
+    },
+    {
+        "kanji": "高架",
+        "kanaRead": "こうか",
+        "engRead": "elevated (structure)"
+    },
+    {
+        "kanji": "高架線",
+        "kanaRead": "こうかせん",
+        "engRead": "overhead wires"
+    },
+    {
+        "kanji": "距離",
+        "kanaRead": "きょり",
+        "engRead": "distance"
+    },
+    {
+        "kanji": "分離",
+        "kanaRead": "ぶんり",
+        "engRead": "separation"
+    },
+    {
+        "kanji": "違反切符",
+        "kanaRead": "いはんきっぷ",
+        "engRead": "ticket (e.g. for a traffic violation)"
+    },
+    {
+        "kanji": "不祥事",
+        "kanaRead": "ふしょうじ",
+        "engRead": "scandal"
+    },
+    {
+        "kanji": "栞",
+        "kanaRead": "しおり",
+        "engRead": "bookmark"
+    },
+    {
+        "kanji": "湿度",
+        "kanaRead": "しつど",
+        "engRead": "level of humidity"
+    },
+    {
+        "kanji": "隣",
+        "kanaRead": "となり",
+        "engRead": "next (to)"
+    },
+    {
+        "kanji": "脅迫",
+        "kanaRead": "きょうはく",
+        "engRead": "threat"
+    },
+    {
+        "kanji": "委託",
+        "kanaRead": "いたく",
+        "engRead": "entrusting (something to a person)"
+    },
+    {
+        "kanji": "横断",
+        "kanaRead": "おうだん",
+        "engRead": "crossing"
+    },
+    {
+        "kanji": "物理",
+        "kanaRead": "ぶつり",
+        "engRead": "physics"
+    },
+    {
+        "kanji": "困難",
+        "kanaRead": "こんなん",
+        "engRead": "difficulty"
+    },
+    {
+        "kanji": "拠点",
+        "kanaRead": "きょてん",
+        "engRead": "position"
+    },
+    {
+        "kanji": "罰金",
+        "kanaRead": "ばっきん",
+        "engRead": "fine"
+    },
+    {
+        "kanji": "薬局",
+        "kanaRead": "やっきょく",
+        "engRead": "pharmacy"
+    },
+    {
+        "kanji": "薬屋",
+        "kanaRead": "くすりや",
+        "engRead": "pharmacy"
+    },
+    {
+        "kanji": "定刻",
+        "kanaRead": "ていこく",
+        "engRead": "appointed time"
+    },
+    {
+        "kanji": "依存",
+        "kanaRead": "いぞん",
+        "engRead": "dependence"
+    },
+    {
+        "kanji": "依頼",
+        "kanaRead": "いらい",
+        "engRead": "request"
+    },
+    {
+        "kanji": "割り込む",
+        "kanaRead": "わりこむ",
+        "engRead": "to cut into (a line, conversation, etc.)"
+    },
+    {
+        "kanji": "既読",
+        "kanaRead": "きどく",
+        "engRead": "already read"
+    },
+    {
+        "kanji": "履歴",
+        "kanaRead": "りれき",
+        "engRead": "personal history"
+    },
+    {
+        "kanji": "残留",
+        "kanaRead": "ざんりゅう",
+        "engRead": "staying behind"
+    },
+    {
+        "kanji": "世論",
+        "kanaRead": "よろん",
+        "engRead": "public opinion"
+    },
+    {
+        "kanji": "清涼飲料水",
+        "kanaRead": "せいりょういんりょうすい",
+        "engRead": "soft drink"
+    },
+    {
+        "kanji": "涼み",
+        "kanaRead": "すずみ",
+        "engRead": "cooling oneself"
+    },
+    {
+        "kanji": "豊穣",
+        "kanaRead": "ほうじょう",
+        "engRead": "abundant (grain) crop"
+    },
+    {
+        "kanji": "在留",
+        "kanaRead": "ざいりゅう",
+        "engRead": "residing (esp. abroad)"
+    },
+    {
+        "kanji": "導入",
+        "kanaRead": "どうにゅう",
+        "engRead": "introduction"
+    },
+    {
+        "kanji": "搭載",
+        "kanaRead": "とうさい",
+        "engRead": "loading (on board)"
+    },
+    {
+        "kanji": "形成",
+        "kanaRead": "けいせい",
+        "engRead": "formation"
+    },
+    {
+        "kanji": "症状",
+        "kanaRead": "しょうじょう",
+        "engRead": "symptoms"
+    },
+    {
+        "kanji": "予期",
+        "kanaRead": "よき",
+        "engRead": "expectation"
+    },
+    {
+        "kanji": "予期せぬ",
+        "kanaRead": "よきせぬ",
+        "engRead": "unexpected"
+    },
+    {
+        "kanji": "発祥",
+        "kanaRead": "はっしょう",
+        "engRead": "origin"
+    },
+    {
+        "kanji": "候補",
+        "kanaRead": "こうほ",
+        "engRead": "candidate"
+    },
+    {
+        "kanji": "清潔",
+        "kanaRead": "せいけつ",
+        "engRead": "clean"
+    },
+    {
+        "kanji": "保有",
+        "kanaRead": "ほゆう",
+        "engRead": "possession"
+    },
+    {
+        "kanji": "名言",
+        "kanaRead": "めいげん",
+        "engRead": "wise saying"
+    },
+    {
+        "kanji": "体脂肪率",
+        "kanaRead": "たいしぼうりつ",
+        "engRead": "body fat percentage"
+    },
+    {
+        "kanji": "嗅覚",
+        "kanaRead": "きゅうかく",
+        "engRead": "sense of smell"
+    },
+    {
+        "kanji": "泥沼",
+        "kanaRead": "どろぬま",
+        "engRead": "bog"
+    },
+    {
+        "kanji": "魅惑",
+        "kanaRead": "みわく",
+        "engRead": "attraction"
+    },
+    {
+        "kanji": "思惑",
+        "kanaRead": "おもわく",
+        "engRead": "expectation"
+    },
+    {
+        "kanji": "破壊",
+        "kanaRead": "はかい",
+        "engRead": "destruction"
+    },
+    {
+        "kanji": "お見逃しなく",
+        "kanaRead": "おみのがしなく",
+        "engRead": "Don't miss it"
+    },
+    {
+        "kanji": "混雑",
+        "kanaRead": "こんざつ",
+        "engRead": "congestion"
+    },
+    {
+        "kanji": "担保",
+        "kanaRead": "たんぽ",
+        "engRead": "security"
+    },
+    {
+        "kanji": "兵器",
+        "kanaRead": "へいき",
+        "engRead": "arms"
+    },
+    {
+        "kanji": "脱出速度",
+        "kanaRead": "だっしゅつそくど",
+        "engRead": "escape velocity"
+    },
+    {
+        "kanji": "受け入れ",
+        "kanaRead": "うけいれ",
+        "engRead": "receiving"
+    },
+    {
+        "kanji": "紹介",
+        "kanaRead": "しょうかい",
+        "engRead": "introduction"
+    },
+    {
+        "kanji": "紹介状",
+        "kanaRead": "しょうかいじょう",
+        "engRead": "letter of introduction"
+    },
+    {
+        "kanji": "唯一",
+        "kanaRead": "ゆいいつ",
+        "engRead": "only"
+    },
+    {
+        "kanji": "試行錯誤",
+        "kanaRead": "しこうさくご",
+        "engRead": "trial and error"
+    },
+    {
+        "kanji": "万里の長城",
+        "kanaRead": "ばんりのちょうじょう",
+        "engRead": "Great Wall of China"
+    },
+    {
+        "kanji": "肥料",
+        "kanaRead": "ひりょう",
+        "engRead": "manure"
+    },
+    {
+        "kanji": "推進",
+        "kanaRead": "すいしん",
+        "engRead": "propulsion"
+    },
+    {
+        "kanji": "損して得取る",
+        "kanaRead": "そんしてとくとる",
+        "engRead": "you must lose a fly to catch a trout"
+    },
+    {
+        "kanji": "付与",
+        "kanaRead": "ふよ",
+        "engRead": "grant"
+    },
+    {
+        "kanji": "望遠鏡",
+        "kanaRead": "ぼうえんきょう",
+        "engRead": "telescope"
+    },
+    {
+        "kanji": "滋養",
+        "kanaRead": "じよう",
+        "engRead": "nourishment"
+    },
+    {
+        "kanji": "眺める",
+        "kanaRead": "ながめる",
+        "engRead": "to look at"
+    },
+    {
+        "kanji": "道徳",
+        "kanaRead": "どうとく",
+        "engRead": "morals"
+    },
+    {
+        "kanji": "衝撃関数",
+        "kanaRead": "しょうげきかんすう",
+        "engRead": "impulse function"
+    },
+    {
+        "kanji": "発散級数",
+        "kanaRead": "はっさんきゅうすう",
+        "engRead": "divergent series"
+    },
+    {
+        "kanji": "級数",
+        "kanaRead": "きゅうすう",
+        "engRead": "series"
+    },
+    {
+        "kanji": "真人間",
+        "kanaRead": "まにんげん",
+        "engRead": "an honest man"
+    },
+    {
+        "kanji": "炭素繊維",
+        "kanaRead": "たんそせんい",
+        "engRead": "carbon fiber"
+    },
+    {
+        "kanji": "自然史博物館",
+        "kanaRead": "しぜんしはくぶつかん",
+        "engRead": "natural history museum"
+    },
+    {
+        "kanji": "大英帝国",
+        "kanaRead": "だいえいていこく",
+        "engRead": "the British Empire"
+    },
+    {
+        "kanji": "解剖",
+        "kanaRead": "かいぼう",
+        "engRead": "dissection"
+    },
+    {
+        "kanji": "分解",
+        "kanaRead": "ぶんかい",
+        "engRead": "disassembly"
+    },
+    {
+        "kanji": "処方箋",
+        "kanaRead": "しょほうせん",
+        "engRead": "prescription"
+    },
+    {
+        "kanji": "拝謁",
+        "kanaRead": "はいえつ",
+        "engRead": "having an audience with someone of very high social standing (e.g. the emperor)"
+    },
+    {
+        "kanji": "着色",
+        "kanaRead": "ちゃくしょく",
+        "engRead": "colouring"
+    },
+    {
+        "kanji": "入居者",
+        "kanaRead": "にゅうきょしゃ",
+        "engRead": "tenant (esp. residential tenant in apartment block)"
+    },
+    {
+        "kanji": "募金箱",
+        "kanaRead": "ぼきんばこ",
+        "engRead": "collection box"
+    },
+    {
+        "kanji": "想像",
+        "kanaRead": "そうぞう",
+        "engRead": "imagination"
+    },
+    {
+        "kanji": "弁論",
+        "kanaRead": "べんろん",
+        "engRead": "discussion"
+    },
+    {
+        "kanji": "触知覚",
+        "kanaRead": "しょくちかく",
+        "engRead": "haptic perception"
+    },
+    {
+        "kanji": "賭け事",
+        "kanaRead": "かけごと",
+        "engRead": "betting"
+    },
+    {
+        "kanji": "洞窟",
+        "kanaRead": "どうくつ",
+        "engRead": "cavern"
+    },
+    {
+        "kanji": "山陰",
+        "kanaRead": "やまかげ",
+        "engRead": "place in the shade of a mountain"
+    },
+    {
+        "kanji": "山陽",
+        "kanaRead": "さんよう",
+        "engRead": "south side of a mountain"
+    },
+    {
+        "kanji": "同好者",
+        "kanaRead": "どうこうしゃ",
+        "engRead": "people of similar tastes"
+    },
+    {
+        "kanji": "同好会",
+        "kanaRead": "どうこうかい",
+        "engRead": "association of like-minded people"
+    },
+    {
+        "kanji": "大歓迎",
+        "kanaRead": "だいかんげい",
+        "engRead": "warm welcome"
+    },
+    {
+        "kanji": "小なり",
+        "kanaRead": "しょうなり",
+        "engRead": "less-than mark (<)"
+    },
+    {
+        "kanji": "大なり",
+        "kanaRead": "だいなり",
+        "engRead": "greater-than mark (>)"
+    },
+    {
+        "kanji": "皆既日食",
+        "kanaRead": "かいきにっしょく",
+        "engRead": "total solar eclipse"
+    },
+    {
+        "kanji": "既製",
+        "kanaRead": "きせい",
+        "engRead": "ready-made"
+    },
+    {
+        "kanji": "人見知り",
+        "kanaRead": "ひとみしり",
+        "engRead": "shyness"
+    },
+    {
+        "kanji": "甘味料",
+        "kanaRead": "かんみりょう",
+        "engRead": "sweetener (sugar, honey, saccharin, maltose, etc.)"
+    },
+    {
+        "kanji": "覚醒剤",
+        "kanaRead": "かくせいざい",
+        "engRead": "stimulant (e.g. psychoactive drugs like methamphetamine, ritalin, etc.)"
+    },
+    {
+        "kanji": "構想",
+        "kanaRead": "こうそう",
+        "engRead": "plan"
+    },
+    {
+        "kanji": "解決済み",
+        "kanaRead": "かいけつずみ",
+        "engRead": "resolved"
+    },
+    {
+        "kanji": "削減",
+        "kanaRead": "さくげん",
+        "engRead": "cut"
+    },
+    {
+        "kanji": "習慣性薬物",
+        "kanaRead": "しゅうかんせいやくぶつ",
+        "engRead": "addictive drug"
+    },
+    {
+        "kanji": "日ごろ",
+        "kanaRead": "ひごろ",
+        "engRead": "normally"
+    },
+    {
+        "kanji": "前金払い",
+        "kanaRead": "まえきんばらい",
+        "engRead": "payment in advance"
+    },
+    {
+        "kanji": "訪問",
+        "kanaRead": "ほうもん",
+        "engRead": "call"
+    },
+    {
+        "kanji": "利益",
+        "kanaRead": "りえき",
+        "engRead": "profit"
+    },
+    {
+        "kanji": "秩序",
+        "kanaRead": "ちつじょ",
+        "engRead": "order"
+    },
+    {
+        "kanji": "隠し味",
+        "kanaRead": "かくしあじ",
+        "engRead": "subtle seasoning that brings out the flavor"
+    },
+    {
+        "kanji": "後片付け",
+        "kanaRead": "あとかたづけ",
+        "engRead": "tidying up"
+    },
+    {
+        "kanji": "手術",
+        "kanaRead": "しゅじゅつ",
+        "engRead": "surgery"
+    },
+    {
+        "kanji": "納得",
+        "kanaRead": "なっとく",
+        "engRead": "consent"
+    },
+    {
+        "kanji": "土器",
+        "kanaRead": "どき",
+        "engRead": "earthenware"
+    },
+    {
+        "kanji": "振替輸送",
+        "kanaRead": "ふりかえゆそう",
+        "engRead": "transfer (of passengers or freight)"
+    },
+    {
+        "kanji": "時間軸",
+        "kanaRead": "じかんじく",
+        "engRead": "time axis"
+    },
+    {
+        "kanji": "暑気払い",
+        "kanaRead": "しょきばらい",
+        "engRead": "avoiding the summer heat"
+    },
+    {
+        "kanji": "撤去",
+        "kanaRead": "てっきょ",
+        "engRead": "withdrawal"
+    },
+    {
+        "kanji": "無断",
+        "kanaRead": "むだん",
+        "engRead": "without permission"
+    },
+    {
+        "kanji": "推定",
+        "kanaRead": "すいてい",
+        "engRead": "presumption"
+    },
+    {
+        "kanji": "松竹梅",
+        "kanaRead": "しょうちくばい",
+        "engRead": "pine, bamboo and plum (an auspicious grouping)"
+    },
+    {
+        "kanji": "群れ",
+        "kanaRead": "むれ",
+        "engRead": "group"
+    },
+    {
+        "kanji": "弾力",
+        "kanaRead": "だんりょく",
+        "engRead": "elasticity"
+    },
+    {
+        "kanji": "航空自衛隊",
+        "kanaRead": "こうくうじえいたい",
+        "engRead": "Japan Air Self-Defense Force"
+    },
+    {
+        "kanji": "猛暑日",
+        "kanaRead": "もうしょび",
+        "engRead": "extremely hot day"
+    }
+]
