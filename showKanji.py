@@ -4,17 +4,19 @@ from PIL import Image, ImageFont, ImageDraw
 from random import choice
 from font_source_sans_pro import SourceSansProSemibold
 
+# ================= load data json file into a list  =======================
+from json import load
+from pathlib import Path 
+p = Path(__file__).with_name('favorites.json')
+with p.open('r') as f:
+    data = load(f)
+
+
+# ================= prepare the inky screen  =======================
 thisDisplay = InkyWHAT('black')
+
 img = Image.new("P", (thisDisplay.WIDTH, thisDisplay.HEIGHT))
 draw = ImageDraw.Draw(img)
-# Opening JSON file, load JSON to dictionary 
-from json import load
-fileName = 'favorites.json' 
-f = open(fileName ,) 
-data = load(f) 
-f.close() 
-
-# ================= blank screen to start =======================
 draw.rectangle([(0,0),(thisDisplay.WIDTH, thisDisplay.HEIGHT)],fill=thisDisplay.BLACK)
 draw.rectangle([(1,1),(thisDisplay.WIDTH-2, thisDisplay.HEIGHT-2)],fill=thisDisplay.WHITE)
 
