@@ -1,0 +1,979 @@
+{
+  "lists" : [
+    {
+      "list" : {
+        "name" : "2020",
+        "items" : [
+          {
+            "reading" : [
+              "デコトラ"
+            ],
+            "ctime" : "2020-01-21 07:38:28 GMT",
+            "meaning" : {
+              "eng" : [
+                "showily decorated truck (e.g. chrome, air-brushed pictures, colored lights)",
+                "art truck"
+              ]
+            },
+            "kanji" : [
+
+            ],
+            "value" : "2450720",
+            "type" : 0,
+            "atime" : "2020-01-21 07:38:28 GMT"
+          },
+          {
+            "reading" : [
+              "らくちゃく"
+            ],
+            "ctime" : "2020-01-21 07:38:57 GMT",
+            "meaning" : {
+              "eng" : [
+                "being settled",
+                "coming to a conclusion"
+              ]
+            },
+            "kanji" : [
+              "落着"
+            ],
+            "value" : "1618540",
+            "type" : 0,
+            "atime" : "2020-01-21 07:38:57 GMT"
+          },
+          {
+            "reading" : [
+              "えびでたいをつる"
+            ],
+            "ctime" : "2020-01-21 07:39:47 GMT",
+            "meaning" : {
+              "eng" : [
+                "to throw in a shrimp and pull out a whale",
+                "to use a sprat to catch a mackerel",
+                "to get big returns on a small investment"
+              ]
+            },
+            "kanji" : [
+              "海老で鯛を釣る"
+            ],
+            "value" : "1977140",
+            "type" : 0,
+            "atime" : "2020-01-21 07:39:47 GMT"
+          },
+          {
+            "reading" : [
+              "ろう"
+            ],
+            "ctime" : "2020-01-21 07:52:13 GMT",
+            "meaning" : {
+              "eng" : [
+                "tower",
+                "tall building",
+                "belvedere",
+                "turret",
+                "lookout",
+                "watchtower",
+                "brothel"
+              ]
+            },
+            "kanji" : [
+              "楼"
+            ],
+            "value" : "1957090",
+            "type" : 0,
+            "atime" : "2020-01-21 07:52:13 GMT"
+          },
+          {
+            "reading" : [
+              "ろうかん"
+            ],
+            "ctime" : "2020-01-21 07:52:41 GMT",
+            "meaning" : {
+              "eng" : [
+                "watchtower"
+              ]
+            },
+            "kanji" : [
+              "楼観"
+            ],
+            "value" : "1916840",
+            "type" : 0,
+            "atime" : "2020-01-21 07:52:41 GMT"
+          },
+          {
+            "reading" : [
+              "まごころ",
+              "まこころ"
+            ],
+            "ctime" : "2020-01-21 08:25:41 GMT",
+            "meaning" : {
+              "eng" : [
+                "sincerity",
+                "true heart",
+                "devotion"
+              ]
+            },
+            "kanji" : [
+              "真心"
+            ],
+            "value" : "1363970",
+            "type" : 0,
+            "atime" : "2020-01-21 08:25:41 GMT"
+          },
+          {
+            "reading" : [
+              "ねつけ"
+            ],
+            "ctime" : "2020-01-29 07:12:47 GMT",
+            "meaning" : {
+              "eng" : [
+                "netsuke",
+                "carved toggle used to tether a small container to the sash of a robe"
+              ]
+            },
+            "kanji" : [
+              "根付",
+              "根付け"
+            ],
+            "value" : "1803780",
+            "type" : 0,
+            "atime" : "2020-01-29 07:12:47 GMT"
+          },
+          {
+            "nanori" : [
+
+            ],
+            "ctime" : "2020-02-07 08:58:18 GMT",
+            "meaning" : {
+              "eng" : [
+                "ease",
+                "peace"
+              ]
+            },
+            "value" : "康",
+            "type" : 2,
+            "ON" : [
+              "コウ"
+            ],
+            "atime" : "2020-02-07 08:58:18 GMT",
+            "kun" : [
+
+            ]
+          },
+          {
+            "reading" : [
+              "にょう",
+              "ゆばり",
+              "いばり",
+              "ゆまり",
+              "ばり",
+              "しい",
+              "しし",
+              "しと"
+            ],
+            "ctime" : "2020-02-07 09:02:23 GMT",
+            "meaning" : {
+              "eng" : [
+                "urine"
+              ]
+            },
+            "kanji" : [
+              "尿"
+            ],
+            "value" : "1467040",
+            "type" : 0,
+            "atime" : "2020-02-07 09:02:23 GMT"
+          },
+          {
+            "reading" : [
+              "また"
+            ],
+            "ctime" : "2020-02-08 20:54:23 GMT",
+            "meaning" : {
+              "eng" : [
+                "crotch",
+                "crutch",
+                "groin",
+                "thigh",
+                "fork (in a tree, road, river, etc.)",
+                "tines (of a fork)"
+              ]
+            },
+            "kanji" : [
+              "股",
+              "胯",
+              "叉",
+              "俣"
+            ],
+            "value" : "1267460",
+            "type" : 0,
+            "atime" : "2020-02-08 20:54:23 GMT"
+          },
+          {
+            "nanori" : [
+
+            ],
+            "ctime" : "2020-02-08 20:54:43 GMT",
+            "meaning" : {
+              "eng" : [
+                "shit",
+                "feces",
+                "excrement"
+              ]
+            },
+            "value" : "糞",
+            "type" : 2,
+            "ON" : [
+              "フン"
+            ],
+            "atime" : "2020-02-08 20:54:43 GMT",
+            "kun" : [
+              "くそ"
+            ]
+          },
+          {
+            "reading" : [
+              "しっけ",
+              "しっき"
+            ],
+            "ctime" : "2020-02-09 09:48:12 GMT",
+            "meaning" : {
+              "eng" : [
+                "moisture",
+                "humidity",
+                "dampness"
+              ]
+            },
+            "kanji" : [
+              "湿気"
+            ],
+            "value" : "1320410",
+            "type" : 0,
+            "atime" : "2020-02-09 09:48:12 GMT"
+          },
+          {
+            "reading" : [
+              "しめる",
+              "しとる"
+            ],
+            "ctime" : "2020-02-09 09:49:16 GMT",
+            "meaning" : {
+              "eng" : [
+                "to become damp",
+                "to become moist",
+                "to become wet",
+                "to lack energy",
+                "to be in a slump",
+                "to be in low spirits",
+                "to feel depressed"
+              ]
+            },
+            "kanji" : [
+              "湿る"
+            ],
+            "value" : "1320390",
+            "type" : 0,
+            "atime" : "2020-02-09 09:49:16 GMT"
+          },
+          {
+            "reading" : [
+              "きどう"
+            ],
+            "ctime" : "2020-02-12 07:46:40 GMT",
+            "meaning" : {
+              "eng" : [
+                "orbit",
+                "trajectory",
+                "railroad track",
+                "(right) track",
+                "proper course"
+              ]
+            },
+            "kanji" : [
+              "軌道"
+            ],
+            "value" : "1223980",
+            "type" : 0,
+            "atime" : "2020-02-12 07:46:40 GMT"
+          },
+          {
+            "reading" : [
+              "かまぼこ",
+              "カマボコ"
+            ],
+            "ctime" : "2020-02-12 07:54:12 GMT",
+            "meaning" : {
+              "eng" : [
+                "kamaboko",
+                "steamed seasoned fish paste, usu. in a semicylindrical shape on a strip of wood and sliced to go in soup, etc."
+              ]
+            },
+            "kanji" : [
+              "蒲鉾"
+            ],
+            "value" : "1209060",
+            "type" : 0,
+            "atime" : "2020-02-12 07:54:12 GMT"
+          },
+          {
+            "reading" : [
+              "かれい"
+            ],
+            "ctime" : "2020-02-16 09:22:00 GMT",
+            "meaning" : {
+              "eng" : [
+                "aging",
+                "ageing",
+                "adding to one's years"
+              ]
+            },
+            "kanji" : [
+              "加齢"
+            ],
+            "value" : "1190690",
+            "type" : 0,
+            "atime" : "2020-02-16 09:22:00 GMT"
+          },
+          {
+            "reading" : [
+              "しゅうへん"
+            ],
+            "ctime" : "2020-02-16 09:22:45 GMT",
+            "meaning" : {
+              "eng" : [
+                "circumference",
+                "outskirts",
+                "environs",
+                "around",
+                "in the area of",
+                "in the vicinity of",
+                "(computer) peripheral"
+              ]
+            },
+            "kanji" : [
+              "周辺"
+            ],
+            "value" : "1331300",
+            "type" : 0,
+            "atime" : "2020-02-16 09:22:45 GMT"
+          },
+          {
+            "reading" : [
+              "しょくにんわざ"
+            ],
+            "ctime" : "2020-02-22 11:01:30 GMT",
+            "meaning" : {
+              "eng" : [
+                "craftsmanship",
+                "artisanal"
+              ]
+            },
+            "kanji" : [
+              "職人技"
+            ],
+            "value" : "2669410",
+            "type" : 0,
+            "atime" : "2020-02-22 11:01:30 GMT"
+          },
+          {
+            "reading" : [
+              "ほんのり"
+            ],
+            "ctime" : "2020-02-22 11:02:39 GMT",
+            "meaning" : {
+              "eng" : [
+                "slightly",
+                "faintly"
+              ]
+            },
+            "kanji" : [
+
+            ],
+            "value" : "1011750",
+            "type" : 0,
+            "atime" : "2020-02-22 11:02:39 GMT"
+          },
+          {
+            "reading" : [
+              "いしょ"
+            ],
+            "ctime" : "2020-03-03 13:55:35 GMT",
+            "meaning" : {
+              "eng" : [
+                "note left by a dead person",
+                "suicide note",
+                "testamentary letter",
+                "will",
+                "testament",
+                "posthumous work"
+              ]
+            },
+            "kanji" : [
+              "遺書"
+            ],
+            "value" : "1159340",
+            "type" : 0,
+            "atime" : "2020-03-03 13:55:35 GMT"
+          },
+          {
+            "reading" : [
+              "てきせい"
+            ],
+            "ctime" : "2020-03-05 17:14:58 GMT",
+            "meaning" : {
+              "eng" : [
+                "reasonable",
+                "suitable"
+              ]
+            },
+            "kanji" : [
+              "適正"
+            ],
+            "value" : "1437420",
+            "type" : 0,
+            "atime" : "2020-03-05 17:14:58 GMT"
+          },
+          {
+            "reading" : [
+              "まどぎわぞく"
+            ],
+            "ctime" : "2020-03-05 20:13:01 GMT",
+            "meaning" : {
+              "eng" : [
+                "useless employees (shunted off by a window to pass their remaining time until retirement)"
+              ]
+            },
+            "kanji" : [
+              "窓際族"
+            ],
+            "value" : "1708220",
+            "type" : 0,
+            "atime" : "2020-03-05 20:13:01 GMT"
+          },
+          {
+            "reading" : [
+              "きれい",
+              "キレイ"
+            ],
+            "ctime" : "2020-03-09 08:01:51 GMT",
+            "meaning" : {
+              "eng" : [
+                "pretty",
+                "lovely",
+                "beautiful",
+                "fair",
+                "clean",
+                "clear",
+                "pure",
+                "tidy",
+                "neat",
+                "completely",
+                "entirely"
+              ]
+            },
+            "kanji" : [
+              "綺麗",
+              "奇麗",
+              "暉麗"
+            ],
+            "value" : "1591900",
+            "type" : 0,
+            "atime" : "2020-03-09 08:01:51 GMT"
+          },
+          {
+            "reading" : [
+              "けいろ"
+            ],
+            "ctime" : "2020-03-19 06:31:59 GMT",
+            "meaning" : {
+              "eng" : [
+                "course",
+                "route",
+                "path",
+                "channel",
+                "process",
+                "means"
+              ]
+            },
+            "kanji" : [
+              "経路",
+              "径路",
+              "逕路"
+            ],
+            "value" : "1251700",
+            "type" : 0,
+            "atime" : "2020-03-19 06:31:59 GMT"
+          },
+          {
+            "reading" : [
+              "ちょっけい"
+            ],
+            "ctime" : "2020-03-19 06:32:05 GMT",
+            "meaning" : {
+              "eng" : [
+                "diameter"
+              ]
+            },
+            "kanji" : [
+              "直径",
+              "直経"
+            ],
+            "value" : "1597720",
+            "type" : 0,
+            "atime" : "2020-03-19 06:32:05 GMT"
+          },
+          {
+            "reading" : [
+              "みずさいばい"
+            ],
+            "ctime" : "2020-03-20 10:08:11 GMT",
+            "meaning" : {
+              "eng" : [
+                "hydroponics"
+              ]
+            },
+            "kanji" : [
+              "水栽培"
+            ],
+            "value" : "1737300",
+            "type" : 0,
+            "atime" : "2020-03-20 10:08:11 GMT"
+          },
+          {
+            "reading" : [
+              "てふだ"
+            ],
+            "ctime" : "2020-03-29 20:42:24 BST",
+            "meaning" : {
+              "eng" : [
+                "one's hand (when playing cards)",
+                "name tag",
+                "nameplate",
+                "business card",
+                "wallet-sized (photo)"
+              ]
+            },
+            "kanji" : [
+              "手札"
+            ],
+            "value" : "1653530",
+            "type" : 0,
+            "atime" : "2020-03-29 20:42:24 BST"
+          },
+          {
+            "reading" : [
+              "とうき"
+            ],
+            "ctime" : "2020-04-26 13:29:02 BST",
+            "meaning" : {
+              "eng" : [
+                "porcelain (esp. soft-paste porcelain)",
+                "china",
+                "chinaware",
+                "earthenware",
+                "pottery",
+                "ceramics",
+                "crockery"
+              ]
+            },
+            "kanji" : [
+              "陶器"
+            ],
+            "value" : "1450610",
+            "type" : 0,
+            "atime" : "2020-04-26 13:29:02 BST"
+          },
+          {
+            "reading" : [
+              "しつがいき"
+            ],
+            "ctime" : "2020-05-21 06:59:04 BST",
+            "meaning" : {
+              "eng" : [
+                "outdoor unit (esp. air conditioner condenser)"
+              ]
+            },
+            "kanji" : [
+              "室外機"
+            ],
+            "value" : "2826547",
+            "type" : 0,
+            "atime" : "2020-05-21 06:59:04 BST"
+          },
+          {
+            "reading" : [
+              "あさつゆ",
+              "ちょうろ"
+            ],
+            "ctime" : "2020-05-31 07:05:27 BST",
+            "meaning" : {
+              "eng" : [
+                "morning dew"
+              ]
+            },
+            "kanji" : [
+              "朝露"
+            ],
+            "value" : "1428590",
+            "type" : 0,
+            "atime" : "2020-05-31 07:05:27 BST"
+          },
+          {
+            "nanori" : [
+
+            ],
+            "ctime" : "2020-06-02 06:26:47 BST",
+            "meaning" : {
+              "eng" : [
+                "whirlpool",
+                "eddy",
+                "vortex"
+              ]
+            },
+            "value" : "渦",
+            "type" : 2,
+            "ON" : [
+              "カ"
+            ],
+            "atime" : "2020-06-02 06:26:47 BST",
+            "kun" : [
+              "うず"
+            ]
+          },
+          {
+            "reading" : [
+              "いきどまり",
+              "ゆきどまり"
+            ],
+            "ctime" : "2020-06-07 21:54:53 BST",
+            "meaning" : {
+              "eng" : [
+                "dead end",
+                "cul-de-sac",
+                "blind alley",
+                "no through road (i.e. on signage)",
+                "end",
+                "end of the road",
+                "end point",
+                "as far as one can go"
+              ]
+            },
+            "kanji" : [
+              "行き止まり",
+              "行止まり",
+              "行き止り",
+              "行止り"
+            ],
+            "value" : "1578820",
+            "type" : 0,
+            "atime" : "2020-06-07 21:54:53 BST"
+          },
+          {
+            "reading" : [
+              "かんぼつ"
+            ],
+            "ctime" : "2020-06-30 12:42:57 BST",
+            "meaning" : {
+              "eng" : [
+                "cave-in",
+                "collapse",
+                "sinking",
+                "depression (e.g. of the skull)",
+                "subsidence"
+              ]
+            },
+            "kanji" : [
+              "陥没"
+            ],
+            "value" : "1216140",
+            "type" : 0,
+            "atime" : "2020-06-30 12:42:57 BST"
+          },
+          {
+            "reading" : [
+              "けいひないしきょうてきいろうぞうせつじゅつ"
+            ],
+            "ctime" : "2020-07-01 11:04:05 BST",
+            "meaning" : {
+              "eng" : [
+                "percutaneous endoscopic gastrostomy",
+                "PEG"
+              ]
+            },
+            "kanji" : [
+              "経皮内視鏡的胃瘻造設術"
+            ],
+            "value" : "2743870",
+            "type" : 0,
+            "atime" : "2020-07-01 11:04:05 BST"
+          },
+          {
+            "reading" : [
+              "つうきせい"
+            ],
+            "ctime" : "2020-07-01 21:32:45 BST",
+            "meaning" : {
+              "eng" : [
+                "air-permeability",
+                "breathability"
+              ]
+            },
+            "kanji" : [
+              "通気性"
+            ],
+            "value" : "2271170",
+            "type" : 0,
+            "atime" : "2020-07-01 21:32:45 BST"
+          },
+          {
+            "nanori" : [
+
+            ],
+            "ctime" : "2020-07-10 07:09:02 BST",
+            "meaning" : {
+              "eng" : [
+                "enlightenment",
+                "perceive",
+                "discern",
+                "realize",
+                "understand"
+              ]
+            },
+            "value" : "悟",
+            "type" : 2,
+            "ON" : [
+              "ゴ"
+            ],
+            "atime" : "2020-07-10 07:09:02 BST",
+            "kun" : [
+              "さと.る"
+            ]
+          },
+          {
+            "reading" : [
+              "ちんぼつせん"
+            ],
+            "ctime" : "2020-07-15 13:46:28 BST",
+            "meaning" : {
+              "eng" : [
+                "sunken ship"
+              ]
+            },
+            "kanji" : [
+              "沈没船"
+            ],
+            "value" : "1768540",
+            "type" : 0,
+            "atime" : "2020-07-15 13:46:28 BST"
+          },
+          {
+            "reading" : [
+              "ふじちゃく"
+            ],
+            "ctime" : "2020-07-16 22:48:36 BST",
+            "meaning" : {
+              "eng" : [
+                "emergency landing",
+                "forced landing",
+                "crash landing"
+              ]
+            },
+            "kanji" : [
+              "不時着"
+            ],
+            "value" : "1492640",
+            "type" : 0,
+            "atime" : "2020-07-16 22:48:36 BST"
+          },
+          {
+            "reading" : [
+              "だんじき"
+            ],
+            "ctime" : "2020-07-20 09:23:42 BST",
+            "meaning" : {
+              "eng" : [
+                "fasting",
+                "fast"
+              ]
+            },
+            "kanji" : [
+              "断食"
+            ],
+            "value" : "1419650",
+            "type" : 0,
+            "atime" : "2020-07-20 09:23:42 BST"
+          },
+          {
+            "reading" : [
+              "ひばし"
+            ],
+            "ctime" : "2020-08-08 21:28:51 BST",
+            "meaning" : {
+              "eng" : [
+                "long metal chopsticks (for handling charcoal, esp. in a brazier)",
+                "fire tongs"
+              ]
+            },
+            "kanji" : [
+              "火箸"
+            ],
+            "value" : "1194200",
+            "type" : 0,
+            "atime" : "2020-08-08 21:28:51 BST"
+          },
+          {
+            "reading" : [
+              "ざつ"
+            ],
+            "ctime" : "2020-08-18 19:14:55 BST",
+            "meaning" : {
+              "eng" : [
+                "rough",
+                "crude",
+                "sloppy",
+                "messy",
+                "miscellaneous"
+              ]
+            },
+            "kanji" : [
+              "雑"
+            ],
+            "value" : "1299240",
+            "type" : 0,
+            "atime" : "2020-08-18 19:14:55 BST"
+          },
+          {
+            "reading" : [
+              "いねむりうんてん"
+            ],
+            "ctime" : "2020-08-21 09:56:00 BST",
+            "meaning" : {
+              "eng" : [
+                "falling asleep at the wheel"
+              ]
+            },
+            "kanji" : [
+              "居眠り運転"
+            ],
+            "value" : "1717920",
+            "type" : 0,
+            "atime" : "2020-08-21 09:56:00 BST"
+          },
+          {
+            "reading" : [
+              "めざめる"
+            ],
+            "ctime" : "2020-08-25 16:02:46 BST",
+            "meaning" : {
+              "eng" : [
+                "to wake up",
+                "to awake",
+                "to awaken to (instinct, ability, perception, etc.)",
+                "to become aware of",
+                "to become conscious of",
+                "to realize",
+                "to come to one's senses"
+              ]
+            },
+            "kanji" : [
+              "目覚める",
+              "目ざめる",
+              "目醒める"
+            ],
+            "value" : "1535350",
+            "type" : 0,
+            "atime" : "2020-08-25 16:02:46 BST"
+          },
+          {
+            "reading" : [
+              "はなきん",
+              "ハナきん",
+              "はなキン"
+            ],
+            "ctime" : "2020-09-05 07:34:49 BST",
+            "meaning" : {
+              "eng" : [
+                "thank God it's Friday",
+                "TGIF",
+                "going out on Friday night",
+                "flowery Friday (when young men et al. stay out late)"
+              ]
+            },
+            "kanji" : [
+              "花金",
+              "華金",
+              "ハナ金",
+              "花キン"
+            ],
+            "value" : "2146990",
+            "type" : 0,
+            "atime" : "2020-09-05 07:34:49 BST"
+          },
+          {
+            "reading" : [
+              "むじゅん"
+            ],
+            "ctime" : "2020-10-24 19:55:42 BST",
+            "meaning" : {
+              "eng" : [
+                "contradiction",
+                "inconsistency"
+              ]
+            },
+            "kanji" : [
+              "矛盾"
+            ],
+            "value" : "1531090",
+            "type" : 0,
+            "atime" : "2020-10-24 19:55:42 BST"
+          },
+          {
+            "reading" : [
+              "じしゅくけいさつ"
+            ],
+            "ctime" : "2020-11-23 10:56:56 GMT",
+            "meaning" : {
+              "eng" : [
+                "self-appointed enforcer of social distancing, etc. during the COVID-19 pandemic",
+                "self-appointed pandemic police"
+              ]
+            },
+            "kanji" : [
+              "自粛警察"
+            ],
+            "value" : "2844624",
+            "type" : 0,
+            "atime" : "2020-11-23 10:56:56 GMT"
+          },
+          {
+            "reading" : [
+              "えいきゅう",
+              "とこしえ",
+              "とわ"
+            ],
+            "ctime" : "2021-01-10 08:07:25 GMT",
+            "meaning" : {
+              "eng" : [
+                "eternity",
+                "permanence",
+                "perpetuity",
+                "Eikyū era (1113.7.13-1118.4.3)"
+              ]
+            },
+            "kanji" : [
+              "永久",
+              "常",
+              "長しえ",
+              "常しえ",
+              "永え",
+              "永"
+            ],
+            "value" : "1576520",
+            "type" : 0,
+            "atime" : "2021-01-10 08:07:25 GMT"
+          }
+        ]
+      }
+    }
+  ],
+  "source" : "Alex’s iPhone"
+}

@@ -1,0 +1,695 @@
+{
+  "lists" : [
+    {
+      "list" : {
+        "name" : "2021",
+        "items" : [
+          {
+            "reading" : [
+              "なんい"
+            ],
+            "ctime" : "2021-02-01 21:38:24 GMT",
+            "meaning" : {
+              "eng" : [
+                "difficulty",
+                "relative difficulty"
+              ]
+            },
+            "kanji" : [
+              "難易"
+            ],
+            "value" : "1460870",
+            "type" : 0,
+            "atime" : "2021-02-01 21:38:24 GMT"
+          },
+          {
+            "reading" : [
+              "ふきながし"
+            ],
+            "ctime" : "2021-02-01 21:39:22 GMT",
+            "meaning" : {
+              "eng" : [
+                "streamer",
+                "pennant",
+                "windsock"
+              ]
+            },
+            "kanji" : [
+              "吹き流し",
+              "吹流し"
+            ],
+            "value" : "1648910",
+            "type" : 0,
+            "atime" : "2021-02-01 21:39:22 GMT"
+          },
+          {
+            "reading" : [
+              "えほうまき"
+            ],
+            "ctime" : "2021-02-01 22:34:04 GMT",
+            "meaning" : {
+              "eng" : [
+                "ehōmaki",
+                "uncut sushi roll eaten during setsubun"
+              ]
+            },
+            "kanji" : [
+              "恵方巻",
+              "恵方巻き",
+              "吉方巻",
+              "吉方巻き"
+            ],
+            "value" : "2535940",
+            "type" : 0,
+            "atime" : "2021-02-01 22:34:04 GMT"
+          },
+          {
+            "reading" : [
+              "ろうがい"
+            ],
+            "ctime" : "2021-02-04 07:33:44 GMT",
+            "meaning" : {
+              "eng" : [
+                "problems caused by the elderly (esp. gerontocracy, and elderly people's control over the young)"
+              ]
+            },
+            "kanji" : [
+              "老害"
+            ],
+            "value" : "1840660",
+            "type" : 0,
+            "atime" : "2021-02-04 07:33:44 GMT"
+          },
+          {
+            "reading" : [
+              "かいせい"
+            ],
+            "ctime" : "2021-02-10 07:55:53 GMT",
+            "meaning" : {
+              "eng" : [
+                "clear weather",
+                "cloudless weather",
+                "good weather"
+              ]
+            },
+            "kanji" : [
+              "快晴",
+              "快霽"
+            ],
+            "value" : "1200060",
+            "type" : 0,
+            "atime" : "2021-02-10 07:55:53 GMT"
+          },
+          {
+            "reading" : [
+              "もよう"
+            ],
+            "ctime" : "2021-02-14 13:52:38 GMT",
+            "meaning" : {
+              "eng" : [
+                "pattern",
+                "figure",
+                "design",
+                "state",
+                "condition",
+                "conjecture of the current situation",
+                "the way it seems",
+                "model",
+                "pattern",
+                "example",
+                "indicates that something seems likely (e.g. rain or storm)",
+                "framework (in go)",
+                "territorial framework",
+                "moyo"
+              ]
+            },
+            "kanji" : [
+              "模様"
+            ],
+            "value" : "1533720",
+            "type" : 0,
+            "atime" : "2021-02-14 13:52:38 GMT"
+          },
+          {
+            "reading" : [
+              "かもん"
+            ],
+            "ctime" : "2021-02-23 14:15:41 GMT",
+            "meaning" : {
+              "eng" : [
+                "family crest"
+              ]
+            },
+            "kanji" : [
+              "家紋"
+            ],
+            "value" : "1192520",
+            "type" : 0,
+            "atime" : "2021-02-23 14:15:41 GMT"
+          },
+          {
+            "reading" : [
+              "しもん"
+            ],
+            "ctime" : "2021-02-23 14:16:00 GMT",
+            "meaning" : {
+              "eng" : [
+                "fingerprint"
+              ]
+            },
+            "kanji" : [
+              "指紋"
+            ],
+            "value" : "1310040",
+            "type" : 0,
+            "atime" : "2021-02-23 14:16:00 GMT"
+          },
+          {
+            "reading" : [
+              "えま",
+              "えうま"
+            ],
+            "ctime" : "2021-02-25 14:43:10 GMT",
+            "meaning" : {
+              "eng" : [
+                "votive picture (originally of horse)"
+              ]
+            },
+            "kanji" : [
+              "絵馬"
+            ],
+            "value" : "1577420",
+            "type" : 0,
+            "atime" : "2021-02-25 14:43:10 GMT"
+          },
+          {
+            "reading" : [
+              "ともチョコ"
+            ],
+            "ctime" : "2021-03-07 21:53:59 GMT",
+            "meaning" : {
+              "eng" : [
+                "chocolate given to a friend (on Valentine's day)"
+              ]
+            },
+            "kanji" : [
+              "友チョコ"
+            ],
+            "value" : "2534820",
+            "type" : 0,
+            "atime" : "2021-03-07 21:53:59 GMT"
+          },
+          {
+            "reading" : [
+              "つぼみ"
+            ],
+            "ctime" : "2021-03-10 18:02:00 GMT",
+            "meaning" : {
+              "eng" : [
+                "(flower) bud",
+                "promising young person",
+                "budding beauty"
+              ]
+            },
+            "kanji" : [
+              "蕾",
+              "莟"
+            ],
+            "value" : "1571800",
+            "type" : 0,
+            "atime" : "2021-03-10 18:02:00 GMT"
+          },
+          {
+            "reading" : [
+              "にまいめ"
+            ],
+            "ctime" : "2021-03-12 10:28:51 GMT",
+            "meaning" : {
+              "eng" : [
+                "handsome man",
+                "actor in a love scene"
+              ]
+            },
+            "kanji" : [
+              "二枚目"
+            ],
+            "value" : "1463210",
+            "type" : 0,
+            "atime" : "2021-03-12 10:28:51 GMT"
+          },
+          {
+            "reading" : [
+              "きんつぎ"
+            ],
+            "ctime" : "2021-03-17 18:50:19 GMT",
+            "meaning" : {
+              "eng" : [
+                "repairing pottery with a lacquer mixed with gold, silver, etc."
+              ]
+            },
+            "kanji" : [
+              "金継ぎ"
+            ],
+            "value" : "2815410",
+            "type" : 0,
+            "atime" : "2021-03-17 18:50:19 GMT"
+          },
+          {
+            "reading" : [
+              "つゆ",
+              "ばいう"
+            ],
+            "ctime" : "2021-03-20 20:53:22 GMT",
+            "meaning" : {
+              "eng" : [
+                "rainy season (in Japan usu. from early June to mid-July)",
+                "rain during the rainy season"
+              ]
+            },
+            "kanji" : [
+              "梅雨",
+              "黴雨"
+            ],
+            "value" : "1582960",
+            "type" : 0,
+            "atime" : "2021-03-20 20:53:22 GMT"
+          },
+          {
+            "reading" : [
+              "こもれび"
+            ],
+            "ctime" : "2021-03-25 11:01:47 GMT",
+            "meaning" : {
+              "eng" : [
+                "sunlight filtering through trees"
+              ]
+            },
+            "kanji" : [
+              "木漏れ日",
+              "木洩れ日",
+              "木漏れ陽",
+              "木洩れ陽"
+            ],
+            "value" : "1593440",
+            "type" : 0,
+            "atime" : "2021-03-25 11:01:47 GMT"
+          },
+          {
+            "reading" : [
+              "ざしょう"
+            ],
+            "ctime" : "2021-03-27 21:41:00 GMT",
+            "meaning" : {
+              "eng" : [
+                "running aground",
+                "being stranded",
+                "grounding",
+                "beaching"
+              ]
+            },
+            "kanji" : [
+              "座礁",
+              "坐礁"
+            ],
+            "value" : "1614950",
+            "type" : 0,
+            "atime" : "2021-03-27 21:41:00 GMT"
+          },
+          {
+            "reading" : [
+              "じんちょうげ",
+              "ちんちょうげ",
+              "ぢんちょうげ",
+              "ジンチョウゲ",
+              "チンチョウゲ",
+              "ヂンチョウゲ"
+            ],
+            "ctime" : "2021-03-31 21:12:26 BST",
+            "meaning" : {
+              "eng" : [
+                "winter daphne (Daphne odora)"
+              ]
+            },
+            "kanji" : [
+              "沈丁花"
+            ],
+            "value" : "1431770",
+            "type" : 0,
+            "atime" : "2021-03-31 21:12:26 BST"
+          },
+          {
+            "reading" : [
+              "きんもくせい",
+              "キンモクセイ"
+            ],
+            "ctime" : "2021-03-31 21:12:47 BST",
+            "meaning" : {
+              "eng" : [
+                "fragrant olive (Osmanthus fragrans var. aurantiacus)"
+              ]
+            },
+            "kanji" : [
+              "金木犀"
+            ],
+            "value" : "1243250",
+            "type" : 0,
+            "atime" : "2021-03-31 21:12:47 BST"
+          },
+          {
+            "reading" : [
+              "あらし"
+            ],
+            "ctime" : "2021-04-01 17:14:51 BST",
+            "meaning" : {
+              "eng" : [
+                "storm",
+                "tempest",
+                "uproar",
+                "hullabaloo",
+                "storm (e.g. of protest)",
+                "winds (e.g. of change)"
+              ]
+            },
+            "kanji" : [
+              "嵐"
+            ],
+            "value" : "1549340",
+            "type" : 0,
+            "atime" : "2021-04-01 17:14:51 BST"
+          },
+          {
+            "reading" : [
+              "せんばづる"
+            ],
+            "ctime" : "2021-04-06 13:52:56 BST",
+            "meaning" : {
+              "eng" : [
+                "(string of) many (traditionally 1000) paper cranes"
+              ]
+            },
+            "kanji" : [
+              "千羽鶴"
+            ],
+            "value" : "1388770",
+            "type" : 0,
+            "atime" : "2021-04-06 13:52:56 BST"
+          },
+          {
+            "reading" : [
+              "ぎょうかいようご"
+            ],
+            "ctime" : "2021-04-23 13:42:29 BST",
+            "meaning" : {
+              "eng" : [
+                "industry terminology",
+                "professional jargon",
+                "buzzword"
+              ]
+            },
+            "kanji" : [
+              "業界用語"
+            ],
+            "value" : "2794140",
+            "type" : 0,
+            "atime" : "2021-04-23 13:42:29 BST"
+          },
+          {
+            "reading" : [
+              "ゆくえふめい"
+            ],
+            "ctime" : "2021-04-26 18:36:51 BST",
+            "meaning" : {
+              "eng" : [
+                "missing",
+                "lost",
+                "unaccounted for",
+                "whereabouts unknown"
+              ]
+            },
+            "kanji" : [
+              "行方不明"
+            ],
+            "value" : "1282190",
+            "type" : 0,
+            "atime" : "2021-04-26 18:36:51 BST"
+          },
+          {
+            "reading" : [
+              "りりしい"
+            ],
+            "ctime" : "2021-04-29 07:15:19 BST",
+            "meaning" : {
+              "eng" : [
+                "gallant",
+                "brave",
+                "imposing",
+                "awe-inspiring",
+                "severe",
+                "biting",
+                "chivalrous",
+                "manly",
+                "dignified"
+              ]
+            },
+            "kanji" : [
+              "凛々しい",
+              "凜々しい",
+              "凛凛しい",
+              "律々しい",
+              "凜凜しい",
+              "律律しい"
+            ],
+            "value" : "1606330",
+            "type" : 0,
+            "atime" : "2021-04-29 07:15:19 BST"
+          },
+          {
+            "reading" : [
+              "ろばたやき"
+            ],
+            "ctime" : "2021-05-13 16:15:25 BST",
+            "meaning" : {
+              "eng" : [
+                "food cooked on a grill in front of customers"
+              ]
+            },
+            "kanji" : [
+              "炉端焼き"
+            ],
+            "value" : "1560020",
+            "type" : 0,
+            "atime" : "2021-05-13 16:15:25 BST"
+          },
+          {
+            "reading" : [
+              "よゆうしゃくしゃく"
+            ],
+            "ctime" : "2021-05-23 17:27:59 BST",
+            "meaning" : {
+              "eng" : [
+                "calm and collected",
+                "with composure",
+                "having enough and to spare"
+              ]
+            },
+            "kanji" : [
+              "余裕綽々",
+              "余裕しゃくしゃく",
+              "余裕綽綽"
+            ],
+            "value" : "1544600",
+            "type" : 0,
+            "atime" : "2021-05-23 17:27:59 BST"
+          },
+          {
+            "reading" : [
+              "いたちごっこ",
+              "イタチごっこ",
+              "イタチゴッコ"
+            ],
+            "ctime" : "2021-05-23 17:39:43 BST",
+            "meaning" : {
+              "eng" : [
+                "going round in circles",
+                "game of cat and mouse",
+                "pointless and repetitive back-and-forth",
+                "itachigokko",
+                "Japanese children's game"
+              ]
+            },
+            "kanji" : [
+              "鼬ごっこ"
+            ],
+            "value" : "1575470",
+            "type" : 0,
+            "atime" : "2021-05-23 17:39:43 BST"
+          },
+          {
+            "reading" : [
+              "よじじゅくご"
+            ],
+            "ctime" : "2021-06-04 09:31:45 BST",
+            "meaning" : {
+              "eng" : [
+                "four-character compound word (esp. idiomatic)"
+              ]
+            },
+            "kanji" : [
+              "四字熟語",
+              "４字熟語"
+            ],
+            "value" : "1307220",
+            "type" : 0,
+            "atime" : "2021-06-04 09:31:45 BST"
+          },
+          {
+            "value" : "76027",
+            "ctime" : "2021-06-23 14:22:59 BST",
+            "atime" : "2021-06-23 14:22:59 BST",
+            "type" : 4,
+            "example" : {
+              "jap" : "純粋に、ミクシィユーザーが言うところの「変な人」ってどんな人なのか、私にはいまいちわからないのだ。",
+              "LAT" : "junsuini, mikushyiyūzā ga iu tokoro no\"hen'na hito\" tte don'na hito na no ka, watashi niha imaichi wakaranai noda.",
+              "eng" : "It's simply that I don't really understand what an \"oddball\" is when said by a Mixi user."
+            }
+          },
+          {
+            "reading" : [
+              "さんさく"
+            ],
+            "ctime" : "2021-08-07 23:41:34 BST",
+            "meaning" : {
+              "eng" : [
+                "walking",
+                "strolling",
+                "roaming",
+                "wandering",
+                "exploring"
+              ]
+            },
+            "kanji" : [
+              "散策"
+            ],
+            "value" : "1303540",
+            "type" : 0,
+            "atime" : "2021-08-07 23:41:34 BST"
+          },
+          {
+            "reading" : [
+              "へいかいしき"
+            ],
+            "ctime" : "2021-08-08 12:48:36 BST",
+            "meaning" : {
+              "eng" : [
+                "closing ceremony"
+              ]
+            },
+            "kanji" : [
+              "閉会式"
+            ],
+            "value" : "1946540",
+            "type" : 0,
+            "atime" : "2021-08-08 12:48:36 BST"
+          },
+          {
+            "reading" : [
+              "かいうん"
+            ],
+            "ctime" : "2021-08-13 18:00:55 BST",
+            "meaning" : {
+              "eng" : [
+                "better fortune"
+              ]
+            },
+            "kanji" : [
+              "開運"
+            ],
+            "value" : "1202510",
+            "type" : 0,
+            "atime" : "2021-08-13 18:00:55 BST"
+          },
+          {
+            "reading" : [
+              "うんせい"
+            ],
+            "ctime" : "2021-08-13 18:01:36 BST",
+            "meaning" : {
+              "eng" : [
+                "fortune",
+                "luck"
+              ]
+            },
+            "kanji" : [
+              "運勢"
+            ],
+            "value" : "1172790",
+            "type" : 0,
+            "atime" : "2021-08-13 18:01:36 BST"
+          },
+          {
+            "reading" : [
+              "ゆうぐれ"
+            ],
+            "ctime" : "2021-09-17 09:58:15 BST",
+            "meaning" : {
+              "eng" : [
+                "evening",
+                "dusk",
+                "twilight"
+              ]
+            },
+            "kanji" : [
+              "夕暮れ",
+              "夕暮",
+              "夕ぐれ"
+            ],
+            "value" : "1542770",
+            "type" : 0,
+            "atime" : "2021-09-17 09:58:15 BST"
+          },
+          {
+            "reading" : [
+              "おまもり"
+            ],
+            "ctime" : "2021-10-29 13:44:40 BST",
+            "meaning" : {
+              "eng" : [
+                "charm",
+                "amulet"
+              ]
+            },
+            "kanji" : [
+              "お守り",
+              "御守り",
+              "お守",
+              "御守"
+            ],
+            "value" : "1002060",
+            "type" : 0,
+            "atime" : "2021-10-29 13:44:40 BST"
+          },
+          {
+            "reading" : [
+              "ふりょうひん"
+            ],
+            "ctime" : "2021-12-22 07:47:10 GMT",
+            "meaning" : {
+              "eng" : [
+                "inferior goods",
+                "defective product",
+                "defective goods"
+              ]
+            },
+            "kanji" : [
+              "不良品"
+            ],
+            "value" : "1495350",
+            "type" : 0,
+            "atime" : "2021-12-22 07:47:10 GMT"
+          }
+        ]
+      }
+    }
+  ],
+  "source" : "Alex’s iPhone"
+}

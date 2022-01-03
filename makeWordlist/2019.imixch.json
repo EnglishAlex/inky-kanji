@@ -1,0 +1,521 @@
+{
+  "lists" : [
+    {
+      "list" : {
+        "name" : "2019",
+        "items" : [
+          {
+            "reading" : [
+              "てばなす"
+            ],
+            "ctime" : "2019-01-13 09:27:44 GMT",
+            "meaning" : {
+              "eng" : [
+                "to let go of",
+                "to release",
+                "to drop",
+                "to part with (e.g. a possession)",
+                "to relinquish",
+                "to spare",
+                "to sell",
+                "to send away (e.g. one's child)",
+                "to let go",
+                "to part with",
+                "to temporarily stop working"
+              ]
+            },
+            "kanji" : [
+              "手放す",
+              "手離す",
+              "手ばなす"
+            ],
+            "value" : "1328370",
+            "type" : 0,
+            "atime" : "2019-01-13 09:27:44 GMT"
+          },
+          {
+            "reading" : [
+              "ときめき"
+            ],
+            "ctime" : "2019-01-13 09:28:03 GMT",
+            "meaning" : {
+              "eng" : [
+                "beating (of the heart, with joy, excitement, etc.)",
+                "palpitation",
+                "throbbing",
+                "pounding",
+                "fluttering"
+              ]
+            },
+            "kanji" : [
+
+            ],
+            "value" : "1008550",
+            "type" : 0,
+            "atime" : "2019-01-13 09:28:03 GMT"
+          },
+          {
+            "reading" : [
+              "ときめく"
+            ],
+            "ctime" : "2019-01-13 09:28:14 GMT",
+            "meaning" : {
+              "eng" : [
+                "to beat fast (of one's heart)",
+                "to flutter (with joy, anticipation, etc.)",
+                "to throb",
+                "to pound",
+                "to palpitate"
+              ]
+            },
+            "kanji" : [
+
+            ],
+            "value" : "1008560",
+            "type" : 0,
+            "atime" : "2019-01-13 09:28:14 GMT"
+          },
+          {
+            "reading" : [
+              "ぜつみょう"
+            ],
+            "ctime" : "2019-01-16 19:53:51 GMT",
+            "meaning" : {
+              "eng" : [
+                "exquisite",
+                "superb",
+                "perfect",
+                "miraculous"
+              ]
+            },
+            "kanji" : [
+              "絶妙"
+            ],
+            "value" : "1386970",
+            "type" : 0,
+            "atime" : "2019-01-16 19:53:51 GMT"
+          },
+          {
+            "reading" : [
+              "かいそう"
+            ],
+            "ctime" : "2019-01-16 19:54:11 GMT",
+            "meaning" : {
+              "eng" : [
+                "seaweed"
+              ]
+            },
+            "kanji" : [
+              "海藻"
+            ],
+            "value" : "1201590",
+            "type" : 0,
+            "atime" : "2019-01-16 19:54:11 GMT"
+          },
+          {
+            "reading" : [
+              "のり",
+              "ノリ"
+            ],
+            "ctime" : "2019-01-16 19:54:33 GMT",
+            "meaning" : {
+              "eng" : [
+                "nori",
+                "laver",
+                "edible seaweed, usu. Porphyra yezoensis or P. tenera, usu. dried and pressed into sheets"
+              ]
+            },
+            "kanji" : [
+              "海苔"
+            ],
+            "value" : "1201620",
+            "type" : 0,
+            "atime" : "2019-01-16 19:54:33 GMT"
+          },
+          {
+            "reading" : [
+              "じんちょうげ",
+              "ちんちょうげ",
+              "ぢんちょうげ",
+              "ジンチョウゲ",
+              "チンチョウゲ",
+              "ヂンチョウゲ"
+            ],
+            "ctime" : "2019-03-06 08:13:24 GMT",
+            "meaning" : {
+              "eng" : [
+                "winter daphne (Daphne odora)"
+              ]
+            },
+            "kanji" : [
+              "沈丁花"
+            ],
+            "value" : "1431770",
+            "type" : 0,
+            "atime" : "2019-03-06 08:13:24 GMT"
+          },
+          {
+            "reading" : [
+              "けんえんのなか"
+            ],
+            "ctime" : "2019-03-20 21:38:22 GMT",
+            "meaning" : {
+              "eng" : [
+                "like cats and dogs",
+                "(on) very bad terms",
+                "relationship of dogs and monkeys"
+              ]
+            },
+            "kanji" : [
+              "犬猿の仲"
+            ],
+            "value" : "1258340",
+            "type" : 0,
+            "atime" : "2019-03-20 21:38:22 GMT"
+          },
+          {
+            "reading" : [
+              "しゅんかしゅうとう"
+            ],
+            "ctime" : "2019-03-21 09:42:03 GMT",
+            "meaning" : {
+              "eng" : [
+                "spring, summer, autumn (fall) and winter",
+                "the four seasons"
+              ]
+            },
+            "kanji" : [
+              "春夏秋冬"
+            ],
+            "value" : "1341040",
+            "type" : 0,
+            "atime" : "2019-03-21 09:42:03 GMT"
+          },
+          {
+            "reading" : [
+              "なじむ"
+            ],
+            "ctime" : "2019-04-01 15:02:59 BST",
+            "meaning" : {
+              "eng" : [
+                "to become familiar with",
+                "to fit in",
+                "to adapt oneself",
+                "to get used to",
+                "to grow accustomed to"
+              ]
+            },
+            "kanji" : [
+              "馴染む"
+            ],
+            "value" : "1459820",
+            "type" : 0,
+            "atime" : "2019-04-01 15:02:59 BST"
+          },
+          {
+            "reading" : [
+              "むなげ"
+            ],
+            "ctime" : "2019-04-05 20:29:08 BST",
+            "meaning" : {
+              "eng" : [
+                "chest hair",
+                "breast down"
+              ]
+            },
+            "kanji" : [
+              "胸毛"
+            ],
+            "value" : "1238020",
+            "type" : 0,
+            "atime" : "2019-04-05 20:29:08 BST"
+          },
+          {
+            "reading" : [
+              "きかん"
+            ],
+            "ctime" : "2019-04-09 20:49:22 BST",
+            "meaning" : {
+              "eng" : [
+                "flagship"
+              ]
+            },
+            "kanji" : [
+              "旗艦"
+            ],
+            "value" : "1220250",
+            "type" : 0,
+            "atime" : "2019-04-09 20:49:22 BST"
+          },
+          {
+            "reading" : [
+              "せいかつようしき"
+            ],
+            "ctime" : "2019-04-11 10:59:32 BST",
+            "meaning" : {
+              "eng" : [
+                "one's lifestyle"
+              ]
+            },
+            "kanji" : [
+              "生活様式"
+            ],
+            "value" : "1830140",
+            "type" : 0,
+            "atime" : "2019-04-11 10:59:32 BST"
+          },
+          {
+            "reading" : [
+              "じょうすい"
+            ],
+            "ctime" : "2019-04-20 06:48:57 BST",
+            "meaning" : {
+              "eng" : [
+                "clean water"
+              ]
+            },
+            "kanji" : [
+              "浄水"
+            ],
+            "value" : "1356640",
+            "type" : 0,
+            "atime" : "2019-04-20 06:48:57 BST"
+          },
+          {
+            "reading" : [
+              "はんしょう"
+            ],
+            "ctime" : "2019-04-22 09:20:35 BST",
+            "meaning" : {
+              "eng" : [
+                "soaring"
+              ]
+            },
+            "kanji" : [
+              "帆翔"
+            ],
+            "value" : "2530720",
+            "type" : 0,
+            "atime" : "2019-04-22 09:20:35 BST"
+          },
+          {
+            "reading" : [
+              "つきぎめ",
+              "げっきょく"
+            ],
+            "ctime" : "2019-05-05 10:09:42 BST",
+            "meaning" : {
+              "eng" : [
+                "monthly contract",
+                "paying by the month"
+              ]
+            },
+            "kanji" : [
+              "月極",
+              "月極め",
+              "月決め",
+              "月ぎめ"
+            ],
+            "value" : "1255570",
+            "type" : 0,
+            "atime" : "2019-05-05 10:09:42 BST"
+          },
+          {
+            "reading" : [
+              "しんせい"
+            ],
+            "ctime" : "2019-06-06 18:29:39 BST",
+            "meaning" : {
+              "eng" : [
+                "application",
+                "request",
+                "petition"
+              ]
+            },
+            "kanji" : [
+              "申請"
+            ],
+            "value" : "1363130",
+            "type" : 0,
+            "atime" : "2019-06-06 18:29:39 BST"
+          },
+          {
+            "reading" : [
+              "いしんでんしん"
+            ],
+            "ctime" : "2019-09-28 11:00:53 BST",
+            "meaning" : {
+              "eng" : [
+                "telepathy",
+                "tacit understanding",
+                "thought transference",
+                "communion of mind with mind",
+                "non-verbal Zen Buddhist transmission to a disciple of the central tenets of Buddhism"
+              ]
+            },
+            "kanji" : [
+              "以心伝心"
+            ],
+            "value" : "1155130",
+            "type" : 0,
+            "atime" : "2019-09-28 11:00:53 BST"
+          },
+          {
+            "reading" : [
+              "ひばな"
+            ],
+            "ctime" : "2019-10-04 08:01:35 BST",
+            "meaning" : {
+              "eng" : [
+                "spark"
+              ]
+            },
+            "kanji" : [
+              "火花"
+            ],
+            "value" : "1193760",
+            "type" : 0,
+            "atime" : "2019-10-04 08:01:35 BST"
+          },
+          {
+            "reading" : [
+              "うきよえ"
+            ],
+            "ctime" : "2018-10-17 08:00:48 BST",
+            "meaning" : {
+              "eng" : [
+                "ukiyo-e",
+                "ukiyoe",
+                "Edo-period woodblock print"
+              ]
+            },
+            "kanji" : [
+              "浮世絵"
+            ],
+            "value" : "1497520",
+            "type" : 0,
+            "atime" : "2018-10-17 08:00:48 BST"
+          },
+          {
+            "reading" : [
+              "たけがさ"
+            ],
+            "ctime" : "2018-10-17 08:02:02 BST",
+            "meaning" : {
+              "eng" : [
+                "bamboo hat"
+              ]
+            },
+            "kanji" : [
+              "竹笠"
+            ],
+            "value" : "2220870",
+            "type" : 0,
+            "atime" : "2018-10-17 08:02:02 BST"
+          },
+          {
+            "reading" : [
+              "まねきねこ"
+            ],
+            "ctime" : "2018-10-17 08:23:20 BST",
+            "meaning" : {
+              "eng" : [
+                "beckoning cat",
+                "figure of a cat with one paw raised (usu. white porcelain)"
+              ]
+            },
+            "kanji" : [
+              "招き猫"
+            ],
+            "value" : "1349580",
+            "type" : 0,
+            "atime" : "2018-10-17 08:23:20 BST"
+          },
+          {
+            "reading" : [
+              "せかいのななふしぎ"
+            ],
+            "ctime" : "2018-11-25 20:56:03 GMT",
+            "meaning" : {
+              "eng" : [
+                "Seven Wonders of the World"
+              ]
+            },
+            "kanji" : [
+              "世界の七不思議"
+            ],
+            "value" : "2201120",
+            "type" : 0,
+            "atime" : "2018-11-25 20:56:03 GMT"
+          },
+          {
+            "reading" : [
+              "たいら"
+            ],
+            "ctime" : "2018-12-02 14:43:23 GMT",
+            "meaning" : {
+              "eng" : [
+                "flat",
+                "level",
+                "even",
+                "smooth",
+                "calm",
+                "tranquil",
+                "placid",
+                "composed",
+                "stable",
+                "relaxed (sitting posture)",
+                "comfortable",
+                "plateau",
+                "tableland",
+                "plain"
+              ]
+            },
+            "kanji" : [
+              "平ら"
+            ],
+            "value" : "1506930",
+            "type" : 0,
+            "atime" : "2018-12-02 14:43:23 GMT"
+          },
+          {
+            "reading" : [
+              "かんしょうざい"
+            ],
+            "ctime" : "2018-12-22 10:09:18 GMT",
+            "meaning" : {
+              "eng" : [
+                "cushioning",
+                "packaging"
+              ]
+            },
+            "kanji" : [
+              "緩衝材"
+            ],
+            "value" : "2554680",
+            "type" : 0,
+            "atime" : "2018-12-22 10:09:18 GMT"
+          },
+          {
+            "reading" : [
+              "だっすいしょう"
+            ],
+            "ctime" : "2018-12-26 19:21:56 GMT",
+            "meaning" : {
+              "eng" : [
+                "dehydration"
+              ]
+            },
+            "kanji" : [
+              "脱水症"
+            ],
+            "value" : "1802460",
+            "type" : 0,
+            "atime" : "2018-12-26 19:21:56 GMT"
+          }
+        ]
+      }
+    }
+  ],
+  "source" : "Alex’s iPhone"
+}
