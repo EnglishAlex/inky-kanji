@@ -17,12 +17,12 @@
     {
         "kanji": "活動",
         "kanaRead": "かつどう",
-        "engRead": "activity (of a person, organization, animal, volcano, etc.)"
+        "engRead": "activity (of a person, organization,etc.)"
     },
     {
         "kanji": "授業",
         "kanaRead": "じゅぎょう",
-        "engRead": "lesson"
+        "engRead": "a lesson"
     },
     {
         "kanji": "主役",
@@ -133,11 +133,6 @@
         "kanji": "遅刻",
         "kanaRead": "ちこく",
         "engRead": "lateness"
-    },
-    {
-        "kanji": "参加意識",
-        "kanaRead": "さんかいしき",
-        "engRead": "sense of participation"
     },
     {
         "kanji": "参加資格",
