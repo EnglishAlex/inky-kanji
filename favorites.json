@@ -1005,11 +1005,6 @@
         "engRead": "party"
     },
     {
-        "kanji": "台無しになる",
-        "kanaRead": "だいなしになる",
-        "engRead": "to come to nothing"
-    },
-    {
         "kanji": "責任感",
         "kanaRead": "せきにんかん",
         "engRead": "sense of responsibility"
@@ -1190,11 +1185,6 @@
         "engRead": "contents"
     },
     {
-        "kanji": "偏差値",
-        "kanaRead": "へんさち",
-        "engRead": "deviation value (usu. scaled to mean of 50, standard deviation of 10, and often used for academic grades)"
-    },
-    {
         "kanji": "頂点",
         "kanaRead": "ちょうてん",
         "engRead": "top"
@@ -1252,7 +1242,7 @@
     {
         "kanji": "中等部",
         "kanaRead": "ちゅうとうぶ",
-        "engRead": "middle school (esp. the middle school section of a school that also encompasses other grades)"
+        "engRead": "middle school "
     },
     {
         "kanji": "抜群",
